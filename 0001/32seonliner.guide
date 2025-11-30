@@ -1,0 +1,77 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+
+@node "MAIN" "Welcome to 32se onliner!"
+
+
+  @{JCENTER}@{IMG "GUIDEDIR:32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0001 01.12.2025  32se onliner !                            Music @{"on" system "HiP HIDE mod.song"} @{"off" system "HiP quit"} 
+  ------------------------------------------------------------------------
+  (Christmas Night - 4 ch Protracker module by Nemesis/Zenon   1997-12-15)
+
+
+  @{fg shine}Welcome Amiga Guys to very first issue of 32se onliner! ;)@{fg text} 
+  
+  This is a new thing, what you read here is DL content from a server ;)
+  
+  IT DOES NOT ADD ANYTHING TO YOUR AMIGA, IT ONLY USES RAM DISK !!!
+  
+  It's not a news paper, it's more like extra for 32se sort of with
+  info like THEA1200 could be something to run 32se on if possible or
+  some cool demos/games/tools or whatever I come up with ;)
+  
+  Since 32se is rarely needing updates I think this might fill in 
+  between with some extra fun for our Amigas, always fun to get some
+  curated stuff/information directly on your Amiga
+  
+  As been first issue, first technical test.. it be a bit shorter than
+  I want it to be
+  
+  
+  @{JCENTER}@{IMG "GUIDEDIR:xmas.png"}@{JLEFT}
+  It's Christmas times...
+  
+  There is a new 32se Christmas theme to DL at 8080.itch.io
+  
+  
+  @{JCENTER}@{IMG "GUIDEDIR:top.png"}@{JLEFT}
+            tukinem.itch.io/santastic-demo is a new cool santa game
+              
+                            @{" Santastic-demo " system "c:execute ram:32se-main/0001/santascript"} 
+                          Unpack & show folder
+  
+  
+                 When a new issue is online, old is gone! 
+  
+  
+  
+                 And until next time have Xmas Amiga fun!
+  
+                                   8080  
+ 
+ 
+  
+  Known issues and tips!
+  
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during online check then run Prefs/Locale 
+  set and save 
+  
+@endnode
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
