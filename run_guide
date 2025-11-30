@@ -2,7 +2,7 @@
 ;   $VER: 32se run_guide 1.0 Copyright 2025 Sami Vehmaa
 ;
 
-multiview RAM:32se-main/0001/news.guide
+c:wbrun RAM:32se-main/0001/32seonliner.guide
 
   
   
