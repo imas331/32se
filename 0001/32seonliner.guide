@@ -38,7 +38,7 @@
   @{JCENTER}@{IMG "GUIDEDIR:top.png"}@{JLEFT}
             tukinem.itch.io/santastic-demo is a new cool santa game
               
-                            @{" Santastic-demo " SYSTEM "execute GUIDEDIR:santascript"} 
+                            @{" Santastic-demo " SYSTEM "execute santascript"} 
                           Unpack & show folder
   
   
