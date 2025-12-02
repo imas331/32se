@@ -15,18 +15,18 @@
   
   This is a new thing, what you read here is DL content from a server ;)
   
-  IT DOES NOT ADD ANYTHING TO YOUR AMIGA, IT ONLY USES RAM DISK !!!
-  
-  It's not a news paper, it's more like extra for 32se sort of with
-  info like THEA1200 could be something to run 32se on if possible or
-  some cool demos/games/tools or whatever I come up with ;)
   
   Since 32se is rarely needing updates I think this might fill in 
   between with some extra fun for our Amigas, always fun to get some
   curated stuff/information directly on your Amiga
   
   As been first issue, first technical test.. it be a bit shorter than
-  I want it to be
+  I want it to be..
+  
+  
+  A4000NG to be released 2026, bigbrother to A1200NG & A600NG. 
+  A1200NG Accelerator is coming 5x speed
+  Check YouTube search for AMIGAKIT A4000NG REVEALED!
   
   
   @{JCENTER}@{IMG "GUIDEDIR:xmas.png"}@{JLEFT}
@@ -36,15 +36,15 @@
   
   
   @{JCENTER}@{IMG "GUIDEDIR:top.png"}@{JLEFT}
-            tukinem.itch.io/santastic-demo is a new cool santa game
+           tukinem.itch.io/santastic-demo is a new cool santa game
               
                             @{" Santastic-demo " SYSTEM "execute santascript"} 
                           Unpack & show folder
   
   
-                 When a new issue is online, old is gone! 
   
   
+                    Next issue release around new year 
   
                  And until next time have Xmas Amiga fun!
   
@@ -54,10 +54,10 @@
   
   
   
-                        @{" Known issues and tips! " LINK ISTP}
+                        @{" Known issues and tips! " LINK "Known issues and tips!"}
    
 @endnode  
-@node "ISTP"  
+@node "Known issues and tips!"  
 
   @{JCENTER}@{IMG "GUIDEDIR:32seonliner.png"}@{JLEFT}
 
