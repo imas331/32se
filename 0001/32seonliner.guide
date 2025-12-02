@@ -38,7 +38,7 @@
   @{JCENTER}@{IMG "GUIDEDIR:top.png"}@{JLEFT}
             tukinem.itch.io/santastic-demo is a new cool santa game
               
-                            @{" Santastic-demo " system "c:execute ram:32se-main/0001/santascript"} 
+                            @{" Santastic-demo " SYSTEM "execute GUIDEDIR:santascript"} 
                           Unpack & show folder
   
   
@@ -48,16 +48,43 @@
   
                  And until next time have Xmas Amiga fun!
   
-                                   8080  
+                                  /8080  
  
  
   
-  Known issues and tips!
   
+  
+                        @{" Known issues and tips! " LINK ISTP}
+   
+@endnode  
+@node "ISTP"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
   To save/preserv this you find it in RAM:32se-main/
   
   If you get enviroment error during online check then run Prefs/Locale 
   set and save 
+  
+  HiP and Lha needs to be in path eg. in c:  (if you try this without 32se)
+  
+
+
+
+
+
+
+
+
   
 @endnode
 
