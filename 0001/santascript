@@ -1,8 +1,0 @@
-; 
-;   $VER: 32se santascript 1.0 Copyright 2025 Sami Vehmaa
-;
-
-lha x SantasticDemo.lha ram:
-win ram:santasticdemo
-  
-  
