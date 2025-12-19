@@ -1,0 +1,8 @@
+; 
+;   $VER: 32se gamescript 1.0 Copyright 2025 Sami Vehmaa
+;
+assign ttt: ""
+lha x ttt:files/sudoku.lha ram:
+win ram:sudoku
+  
+  
