@@ -1,8 +1,0 @@
-; 
-;   $VER: 32se swscript 1.0 Copyright 2025 Sami Vehmaa
-;
-assign ttt: ""
-lha x ttt:files/autodrawer.lha ram:
-win ram:autodrawer
-  
-  
