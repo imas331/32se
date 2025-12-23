@@ -1,0 +1,359 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+@node "MAIN" "Welcome to 32se onliner!"
+
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0003 24.12.2025  32se onliner !                            Music @{"on" SYSTEM "hip files/BEAST_PLAYTUNE4.mod"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+  (Shadow of the Beast - 4 ch Protracker module by David Whittaker - 1989)
+  @{JCENTER}@{IMG "GUIDEDIR:files/x-masman.png"}@{JLEFT}
+    Click to listen @{"mary X-MESS by ALCATRAZ Entertainment Software 1996" SYSTEM "play16 files/x-massmpl"}
+      
+      @{fg shine}Merry Christmas and welcome to second issue of 32se onliner! ;)@{fg text}
+   
+                 @{"  " LINK "page9"} (My setup coming in next issue)
+                 @{"  " LINK "page4"} Hardware                     *** ***
+                 @{"  " LINK "page0"} Me rambling                 *   *   *
+                 @{"  " LINK "page1"} Curated fun                 *       *
+                 @{"  " LINK "page2"} Known issues and tips        *     *
+                 @{"  " LINK "page9"}                               *   *
+                 @{"  " LINK "page5"} Software                       ***
+                 @{"  " LINK "page9"} ;)
+                 @{"  " LINK "page3"} Norrland
+             
+    SIDENOTE: 
+    This is just my opiniums my feelings, you absolutely do not need to 
+    agree in anything and 32se onliner is not a news mag and be kind ;)    
+@endnode 
+
+@node "page5" "Software"          
+   
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}                
+
+    GoSnap by Krzysztof Donat
+    
+    GoSnap is a program that brings to AmigaOS a window snapping feature 
+    known from modern operating systems, allowing windows to snap to the 
+    edges of the screen.
+
+    GoSnap creates 8 active zones on the Workbench screen: 4 screen 
+    corners and 4 edges. When a window is dragged to one of these zones, 
+    it is automatically resized and repositioned. 
+    The zones work as follows:
+
+    * 4 corners - dragging a window into a corner will resize it to 1/4 
+      of the screen size and position it in that corner.
+    * Left, right, and bottom edges - dragging a window to one of these 
+      edges will resize it to 1/2 of the screen size and snap it 
+      to the corresponding edge.
+    * Top edge - dragging a window to the top edge of the screen will 
+      maximize it to fill the entire screen.
+
+
+ 
+    License & Donations:
+    GoSnap is FREEWARE, but if you find this tool useful, you are welcome 
+    to donate and help keep the author caffeinated:
+
+    https://www.paypal.me/krzysztofdonat 
+
+
+
+@{JCENTER}
+You can try it without installing it
+@{" GoSnap " SYSTEM "c:execute swscript"}
+Unpack & show folder
+         
+
+                            
+  
+@{JLEFT}  
+@endnode
+ 
+@node "page9" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{JCENTER}@{IMG "GUIDEDIR:files/santa22_sm.png"}
+Yes it's me ;) ha ha ha
+  
+Thanks for reading and I hope to see you in next issue in 1/1-26...
+             
+And until next time USE YOUR AMIGAAAAAAaaaaaa....! ;)
+  
+/8080  
+
+If you like what you see, want me continue doing this crazy thing
+you can support me directly by PayPal link found on 8080.itch.io
+
+  @{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
+
+@node "page0" "Me rambling" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  
+         Here we are again and a third issue...  Time flies by and
+         we "the Amiga herd" are getting older and old but Amiga 
+         fire is there as it was in early/mid 90s. War was on and 
+         it was not pretty, death to IBM compatible PCs was the
+         slogan of that age. This only shows money rules them all.
+  @{JCENTER}@{IMG "GUIDEDIR:files/inteloutside.gif"}@{JLEFT}
+         If Commodore had better management and money they would
+         still face great competition from PCs growing market on
+         it's own inevitably transition.
+         
+         The 68k, in 1994 best 68k was 68060 50MHz 67 MIPS at same
+         time Motorola announced it was last in line while PCs
+         got at same year a Pentium 100 at 100MHz 166 MIPS now
+         both has their pros and cons but I believe P100 was the
+         general stronger/faster one...
+         
+         I think we can take a peek at Mac, same year 1994 Apple
+         moves to PPC from 68k, Mac has a simple approach, no 
+         complex chipset, in my opinium this is boring just like 
+         a PC machine. PPC601 outperforms Pentium in early 1994
+         
+         Amiga started same journey a bit later in 1995, AmigaOS 4
+         was released 2006 same year Apple leaves PPC for Intel
+         because PPC is falling behind in performance...
+         I remember this was discussed among Amigans... 
+         
+         Amiga stayed on PPC course and in 2020 Apple moved to 
+         ARM this time it's because of bad engineering by Intel,
+         chips are too hot, consumes more and more power...
+         
+         IF Amiga was still one of the biggest it probably would
+         not run on a PPC CPU...
+         
+         Amiga PPC cost way too much for general users! I feel 
+         like more effort should be put in to bring cost down
+         and gain more users, use a existing platform. 
+         PPC HW has no advantages over existing platforms.
+         
+         
+         How fast is X5000 compared with Pi5 ?? I tried to find
+         out... 
+         
+         
+         I have for many years wanted to try out AmigaOS 4. 
+         For such generic HW I think max Euro 500 not Euro 2400
+         Alinea computer. Now many years has passed so my interest 
+         is gone but I still read about it, follow news and hold 
+         my fingers crossed that something beautiful will happen!
+         
+         
+         If Amiga was to use anything other than 68k it should 
+         choose a cheap modern CPU and keep chipset in a FPGA
+         
+         
+         We have our trusty 68k with really big growing pain, 
+         expansion is crazy, all kinds of HW pops up and even 
+         AmigaOS 68k gets new releases and updates and insane
+         amount of new games ;) and the price is right mostly.
+         
+         
+         
+         Amigas future ???
+         
+         We consumers are it's future... build expensive
+         Amiga gear is not going to help anyone, dead end!
+
+  
+@endnode         
+         
+@node "page4" "Hardware" 
+         
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/pocketstorm.jpg"}@{JLEFT} 
+         This is PocketStorm, it's FPGA chipset + Pi4/5 with
+         Emu68 JIT. Developer Claude Schwarz  
+        
+         FPGA used is a Tang Nano 20K
+      
+         
+         This is seriously powerfull, should be pretty cheap too
+         
+         This Amiga could gain big sales if it's ever released!
+         
+         
+         Now there is actually development going on that is
+         similair to PocketStorm and that's..         
+@{JCENTER}@{IMG "GUIDEDIR:files/amicube.jpg"}@{JLEFT}         
+         AmiCube F1200
+         It got chipset in FPGA and CPU socket, this socket
+         is a 16-bit one as found on A500, don't know if this 
+         going to be a performance limit.
+         Memory is mentioned to be 6+64MB, AGA core  
+                          
+         There is also a new AmiCUBE Mini in development
+         
+         
+         
+  
+@endnode 
+ 
+@node "page3" "Norrland" 
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/norrland1.jpg"}
+  Norrland
+  @{JLEFT}
+       
+       I've been working in the shadows on this game for a long time
+       and it's not done.. About 6 month in to the developent and 
+       I've hit 2MB chip ram limit, so some work is to lower the chip 
+       ram usage. 
+       
+       It's AGA game 2MB chip and some FAST. HDD
+       
+       Game is complex to code, I've just recently noticed this chip 
+       ram flaw and I feel like cutting in it would be like cutting 
+       your legs ha ha ha ok not that bad but I'll fix it.
+       
+       
+  @{JCENTER}@{IMG "GUIDEDIR:files/nl1.png"}@{JLEFT}  
+       Story
+       
+       At 56 you took a chance on this undercover detective job! 
+       Maybe you are too old for this...  Theres something going on 
+       in northern parts of Sweden and you are here to uncover it all.
+       
+       As a undercover you need to maintain your normal delivery job
+       and help out those living in outposts scattered around while 
+       you investigate the death of a curior.
+       
+       You think, easy.... nope there is alot to keep track on like
+       ammo, food, cold, dangerous animals...
+       
+       and to win the game, all outpost has to give you 5 star rating
+       and you have to advance to max level(5) and XP(99) and solve
+       the story and do all this before you get too old and die ;)
+       
+            
+  @{JCENTER}@{IMG "GUIDEDIR:files/nl2.png"}@{JLEFT}
+       Features (might forgot some)
+       
+       Terrain is big
+       Weather is shifting
+       Animals are dangerous
+       You can die of hunger
+       You can freeze to death
+       You might get lost
+       Shoot to kill 
+       Eat animals
+       Story has episodes
+       You can die of age/heartattack
+       Every outpost judge your work
+       Artic thunder
+       Heavy snowing 
+       You can die from animal attacks
+       Day/Night shifting
+       Game has 5 levels
+       You gain level by experience
+
+
+       Release date: First half of 2026
+       
+       
+       
+@endnode
+
+@node "page1" "Curated fun"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/amb.png"}
+RiverHorse by Ambrosia, june 1996 South Sealand Party 2nd place
+
+I still have found memories and this was one of the favourites
+and I think it still a very nice done demo, Ambrosia also made 
+the great 3D game Genetic Species AGA RTG CD
+               
+@{" RiverHorce " SYSTEM "c:execute demoscript"} 
+Unpack & show folder
+  
+@{JLEFT}
+
+
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/pm1.png"}
+Pacman96, this game is great, 100% system compatible, 
+multitasking, chipset/RTG, several tunes. 
+Make own levels 
+
+@{" Pacman96 " SYSTEM "c:execute gamescript"} 
+Unpack & show folder 
+  @{JLEFT}
+  
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/pm2.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/pm3.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/x-masman.png"}
+When click on X-MAS96 I had to hold left button in or it 
+exit, or double click really quick   
+  @{JLEFT}
+@endnode
+
+@node "page2" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during online check then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c:
+  (if you try this without 32se)
+  
+  
+  
+  
+  @{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
