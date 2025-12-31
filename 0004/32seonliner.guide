@@ -1,0 +1,505 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0004 01.01.2026  32se onliner !                            Music @{"on" SYSTEM "hip files/mod.speedball2_intro"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+      (Speedball2 Intro - 4 ch Protracker module by Nation 12 - 1990)
+  @{JCENTER}@{IMG "GUIDEDIR:files/2026.png"}@{JLEFT}
+      @{fg shine}Happy New Year and welcome to fourth issue of 32se onliner! ;)@{fg text} 
+  
+                 @{"  " LINK "page6"} My setup
+                 @{"  " LINK "page8"} Ghost section
+                 @{"  " LINK "page4"} Hardware                     *** ***
+                 @{"  " LINK "page0"} Me rambling                 *   *   *
+                 @{"  " LINK "page1"} Curated fun                 *       *
+                 @{"  " LINK "page2"} Known issues and tips        *     *
+                 @{"  " LINK "page7"} Holiday season                *   *
+                 @{"  " LINK "page5"} Software                       ***
+                 @{"  " LINK "page9"} ;)
+                 @{"  " LINK "page3"} Norrland
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@endnode 
+
+@node "page8" "Ghost section"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}  
+  @{IMG "GUIDEDIR:files/ghost.png"} 
+  
+      Ohhh no another cliffhanger for the next issue ;)
+  @{JLEFT}
+  
+@endnode
+  
+@node "page7" "Holiday season"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}  
+  @{JLEFT}
+      
+      A bit late... hey this is new stuff for me...
+      
+      I want to welcome you all to this celebration to mark the end of
+      another wondeful Amiga year.
+      
+      We are reminded that it's a time to celebrate family, friends
+      and the many wonderful things in our lives.
+      
+      Your Amiga needs to have it's love...
+      
+      What about a nice AGA/060 demo to max out your Amiga ;)
+      or/and a New Year theme for your AmigaOS 32se 
+      
+      May you all have a wondeful New Year!
+      
+      
+      Thank you
+      
+      
+  
+  @{JCENTER}                
+  @{IMG "GUIDEDIR:files/silentn.jpg"} 
+  
+BRINGING BACK CHRISTMAS ON THE AMIGA
+         
+W I T H  A  N E W  AGA/060  D E M O 
+         
+CALLED
+     
+S I L E N T  N A H G H T
+
+Released December 2025
+
+
+  @{" Silent Nahght " SYSTEM "c:execute demoscript2"} 
+Unpack & show folder
+  
+  
+  
+  
+  
+  @{IMG "GUIDEDIR:files/nysm.jpg"}
+  Here we have a AmigaOS 32se Theme called New Year
+  
+  
+  @{" New Year " SYSTEM "c:execute themescript"} 
+Click button and import theme from top menu Themes/Theme Import/Export
+  
+  
+@{JLEFT}
+@endnode
+
+@node "page6" "My setup"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}                  
+  @{IMG "GUIDEDIR:files/setup1s.jpeg"} 
+This setup was done late summer 2025
+@{JLEFT}
+       
+       I'm running Linux with FS-UAE and it's a very nice combo.
+        
+       The screen to right was added a bit later due to the need at 
+       same time see stuff that I don't run on Amiga.
+       
+       I had for a very long time different "PC" keyboards but the 
+       Amiga feeling was really distant...
+       
+       
+       A500 keyboard, USB-C A500 keyboard adapter and a resin
+       printed keyboard case not painted, logo is a sticker cut i half
+       keycaps are from a1200.net total cost $330
+       A used A4000 keyboard cost more...
+        
+       It does not have Amiga logo on it and just the looks says it's a 
+       Amiga keyboard and this is the oposite to other "Amiga" keyboards 
+       when layout is PC and you put a Amiga sticker on it and hope it 
+       will turn to be a Amiga keyboard.... yeah you know..
+       
+       It's not perfect but I'm really happy ;)
+@{JCENTER}@{IMG "GUIDEDIR:files/kb1.jpeg"}@{JLEFT}  
+       Now the Amiga feels pretty real with the keyboard
+       FS-UAE on Linux does a really good job on the Amiga feeling
+       not perfect...
+       
+       
+       
+       I have owned some modern "Amigas" that I've sold
+       
+       Apollo V4SA  This was my best, 512MB RAM, sold it to buy a
+                    1GB version but then a 2GB version appeared the
+                    A6000 hmmm... I'll hold a bit more on that thought
+                    When running you imidiately get the real HW
+                    feeling that missing in emulation
+                    
+       A600GS       Retro gaming console
+                    I bought it at release, sold it a month later
+                    I expected more from it
+                    
+       A500mini     Retro gaming console
+                    gamepad was not good with some games
+                    mouse has noicy micro switches ??? hollow sound
+                     
+                   
+                    
+       I don't generally like to have several computers, can I have 
+       one and a Amiga that does it all? NO :( DAMN
+       
+       
+       The search and making your Amiga setup in your own vision is
+       a path that is different for everyone! I'm looking for a PC
+       replacement Amiga, others might looking for the best classic 
+       gaming rig. Some only accepts Commodores original HW
+       
+       Since you can't buy a modern Amiga/AmigaOS with every app
+       common today on other platforms for Amiga we are stuck to
+       make out own choices/priorities.
+       
+       
+       I'm looking for one unit/box computer solution, right now it is..
+       One box, one keyboard, one mouse, one HDMI output
+       
+       I had the idea to have a V4SA inside the PC box with a computer
+       switch, it's just that V4SA doesn't support USB hubs, so I
+       had extra keyboard and mouse for that :( that's one reason I'm
+       on hold getting a new Apollo V4
+       
+       
+       
+       
+       
+       
+       On next Issue 5 I'll continue with a Amiga case I've bought ;)
+       
+                              
+@endnode
+
+@node "page5" "Software"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}                  
+  @{IMG "GUIDEDIR:files/govd.png"} 
+Workbench with virtual desktops
+@{JLEFT}
+       
+       GoVD by Krzysztof Donat
+       
+       This is a cool software, switch between desktops, prefs allows
+       you to define where to put the buttons and how many desktops etc.
+
+       It is shareware with 20min run time for the unregistered version,
+       more info is in the GoVD.readme file on how to obtain a key file.
+       
+       Go ahead and try it, no need to install to test it ;) run GoVD 
+       and have fun with it.
+       
+        
+@{JCENTER}@{" GoVD " SYSTEM "c:execute swscript"} 
+Unpack & show folder
+
+@{JLEFT}  
+
+                              
+@endnode
+ 
+
+@node "page0" "Me rambling" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+       So I had some toughts on hardware on last issue with that
+       x-mas spirit and typing on a real noicy Amiga keyboard!
+  @{JCENTER}@{IMG "GUIDEDIR:files/kb1.jpeg"}@{JLEFT}     
+       I would not have it in any other way, the real thing has
+       feelings ;) 
+       
+       
+       Yeah so we don't have a Amiga that's in line with todays
+       computing power but and a big BUTT.... ;)
+       
+       Things/Ideas are growing from Amiga community that wants 
+       Amiga to do common tasks like... 
+       
+       AmiTube          YouTube 
+       AmiStreamRaider  Twitch 
+       
+       
+       
+       This only applies to A600GS, A1200NG
+       
+       I think AmigaKits AmiBrowser takes a step further with a 
+       real web browser, it can do Youtube, Twitch and a hell 
+       lot more
+              
+       AmigaKit has AmiBench that seriously takes advantage of
+       ARM to do things that no 68k can manage at required speed 
+       
+       AmiBrowser, user interacts with a native 68k AmigaOS app
+       but that app calls down to the chromium embedded frame-
+       work running on Linux
+       
+       Graphics library bypasses 68k and goes for ARM to speed
+       things up even more
+       
+       It seems the Amigas future is like a tree, it branches/
+       take many directions and maybe survivors meet at the end
+       to merge a new all powerfull solution ;)
+       
+       
+       
+                                * * *
+                               
+       
+              
+@endnode         
+         
+@node "page4" "Hardware" 
+         
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/a61.jpg"}@{JLEFT} 
+                                a6000.net
+                               
+       17 October 2025 Apollo release A6000 at Amiga40 Germany
+       This is a real photo of a cream white version
+       
+       
+                                
+  @{JCENTER}@{IMG "GUIDEDIR:files/a62.jpg"}@{JLEFT}       
+       It's still same Cyclone 5, many believes Mister uses same
+       chip but it isn't, the one in Mister is a SoC which
+       combines dual core Cortex A9 embeded cores with FPGA
+       
+       This board differs a bit from all other V4s, it has dual
+       memory chips and higher memory bandwith, memory is maxed
+       out at 2GB and that's all AmigaOS can handle.
+       
+       Most of the stuff you might need to have easy access to 
+       have been moved out like CF card, FPGA flash connector
+       
+       It even has a rear power switch...
+       
+     
+       ApolloOS
+       Open source AmigaOS 3.1 compatible system
+       I've used it, there is some more work needed before it
+       can run all Amiga stuff on it. Compability is very high
+       
+       You can install whatever Amiga system you like..
+       AmigaOS 3.1
+       AmigaOS 3.2
+       AmigaOS 3.5
+       AmigaOS 3.9
+       
+       Then there are some pirated systems as well. 
+       
+       
+       Hardware
+       68080         is fast, fastest 68k ever
+       S-AGA         is AGA extended with new screenmodes
+       ARNE          16-bit version of Paula with more channels
+       Maggie 3D     3D chip
+       Flicker-fixer
+       
+       
+       My take on it
+       It's a great Amiga no doubt and very fast..
+       
+       Is there something missing? yes
+       A edge connector/CPU socket for a turbo board ;)
+       You know, better stuff is always around next corner and
+       theres no socket for it...
+       
+       It is a FPGA, so it does get updates / improvements but
+       in terms of speed it would need that CPU socket
+       
+       I would rank this the best Amiga (non emulated) that 
+       money can buy today!
+       
+       
+       Extra info
+       FPGA = Field programmable gate array, hardware level 
+       re-created chipset + cpu like the Apollo A6000
+       
+       SoC  = System on Chip like Pi5 that has CPU+GFX
+       integrated and often runs Linux and on top you may
+       run a Amiga emulator much like a A600GS except it
+       has a OrangePi SoC
+       
+       And even the type of SoC Mister is using where a FPGA
+       is added...
+       
+         
+@endnode 
+ 
+@node "page3" "Norrland" 
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/n01.jpg"}
+  Norrland
+  @{JLEFT}
+       
+       Here's a quick update 
+       Main thing is to survive and do deliverys, the story added
+       on top is the extra distraction, it's not deep but it still
+       needs your attention
+       
+       I've coded everything for a very first long test...
+       Some checks 
+       � game mechanics
+       � quality 
+       � improvements
+       � bugs
+       
+       
+       
+       
+       
+       Repeated info
+       It's AGA game 2MB chip and some FAST. HDD
+        
+       Story
+       
+       At 56 you took a chance on this undercover detective job! 
+       Maybe you are too old for this...  Theres something going on 
+       in northern parts of Sweden and you are here to uncover it all.
+       
+       As a undercover you need to maintain your normal delivery job
+       and help out those living in outposts scattered around while 
+       you investigate the death of a curior.
+       
+       You think, easy.... nope there is alot to keep track on like
+       ammo, food, cold, dangerous animals...
+       
+       and to win the game, all outpost has to give you 5 star rating
+       and you have to advance to max level(5) and XP(99) and solve
+       the story and do all this before you get to old and die ;)
+       
+            
+   
+
+@endnode
+
+@node "page1" "Curated fun"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/dgr.jpg"}
+Dark Goat Rises by Noice
+Released at Revision 2019 in Saarbrucken, Germany ranked 7th
+Amiga 1200, with 060 CPU and 32MB of RAM
+               
+I like this demo, very clean and nice effects!
+
+@{" Dark Goat Rises " SYSTEM "c:execute demoscript"} 
+Unpack & show folder
+  
+@{JLEFT}
+
+
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/soliton.jpg"}
+Soliton, a Workbench card game 
+Many many hours has been wasted on this great card game ;) 
+ 
+
+@{" Soliton " SYSTEM "c:execute gamescript"} 
+Unpack & show folder 
+  @{JLEFT}
+  
+    
+  @{JLEFT}
+@endnode
+
+@node "page9" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{JCENTER}@{IMG "GUIDEDIR:files/crazyhs_sm.png"}
+A version of me ;) ha ha ha
+
+This is a a busy month, beside our Amiga need to be petted
+and shown great love, you have all this Christmas mess and
+a New Year to celebrate... I hope you survived to read this
+
+
+You probably notice I'm no magazine writer and I don't want
+it to be either, I like it to be more of a surprise, follow
+no rules, be as I would see it and most important changes!
+changes push Amiga to the future ;)
+  
+Thanks for reading and all, I hope to see you in next issue...
+I'm not to do this on a regular basis, when I have something.. 
+                
+I'll be back ! It be sooner rather than later.. ha ha 
+             
+And until next time USE YOUR AMIGAAAAAAaaaaaa....! ;)
+  
+/8080  
+
+If you like what you see, want me continue doing this crazy thing
+you can support me directly by PayPal link found at 8080.itch.io
+
+  @{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
+
+@node "page2" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during online check then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: (if not AmigaOS 32se)
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
