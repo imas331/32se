@@ -1,8 +1,8 @@
 ; 
-;   $VER: 32se run_guide 1.0 Copyright 2025 Sami Vehmaa
+;   $VER: 32se run_guide 1.0 Copyright 2025-2026 Sami Vehmaa
 ;
 
-c:wbrun RAM:32se-main/0004/32seonliner.guide
+c:wbrun RAM:32se-main/0005/32seonliner.guide
 
   
   
