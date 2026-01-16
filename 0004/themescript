@@ -1,8 +1,0 @@
-; 
-;   $VER: 32se themescript 1.0 Copyright 2026 Sami Vehmaa
-;
-assign ttt: ""
-copy ttt:files/newyear.lzx ram: QUIET
-
-  
-  

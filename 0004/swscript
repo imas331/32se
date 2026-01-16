@@ -1,8 +1,0 @@
-; 
-;   $VER: 32se swscript 1.0 Copyright 2026 Sami Vehmaa
-;
-assign ttt: ""
-lha x ttt:files/govd.lha ram:
-win ram:govd
-  
-  
