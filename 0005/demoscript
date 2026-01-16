@@ -1,0 +1,8 @@
+; 
+;   $VER: 32se demoscript 1.0 Copyright 2026 Sami Vehmaa
+;
+assign ttt: ""
+lha x ttt:files/luminagia.lha ram:
+win ram:luminagia
+  
+  
