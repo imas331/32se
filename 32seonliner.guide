@@ -1,0 +1,745 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0005 16.01.2026  32se onliner !                            Music @{"on" SYSTEM "hip files/mod.module"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+      (Crystal Hammer - 4 ch tracker module by Karten Obarski - 1988)
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/front.jpg"}
+@{fg shine}Welcome to fifth issue of 32se onliner! ;)@{fg text}
+  
+***   ***
+*   ***   *
+*           *
+*  @{"Expand" LINK "MAIN2"}  *
+*         *
+*       *
+*     *
+*   *
+* *
+*
+@{JLEFT}@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}
+    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@endnode 
+
+@node "MAIN2" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0005 16.01.2026  @{fg shine}32se onliner !@{fg text}                            Music @{"on" SYSTEM "hip files/mod.module"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+      (Crystal Hammer - 4 ch tracker module by Karten Obarski - 1988)
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/front.jpg"}@{JLEFT}
+      @{fg shine}Welcome to fifth issue of 32se onliner! ;)@{fg text}
+  
+                 @{"  " LINK "page2"} My setup part 2
+                 @{"  " LINK "page5"} Hardware                     *** ***
+                 @{"  " LINK "page4"} Me rambling                 *   *   *
+                 @{"  " LINK "page7"} Curated fun                 *       *
+                 @{"  " LINK "page9"} Known issues and tips        *     *
+                 @{"  " LINK "page1"} Ghost section                 *   *
+                 @{"  " LINK "page3"} Apollo Computer                ***
+                 @{"  " LINK "page8"} ;)
+                 @{"  " LINK "page6"} AmigaOS 32se
+                 
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}
+    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@endnode 
+
+@node "page1" "Ghost section"          
+ 
+  
+@{JCENTER}
+@{IMG "GUIDEDIR:files/32seonliner.png"}
+@{IMG "GUIDEDIR:files/ghost.png"}
+
+
+Welcome to something new and spooky ;)
+       
+I'm changing 32se onliner as I go forward and I think you
+find this section interesting with mixed content!
+@{JLEFT}       
+                                     *
+@{JCENTER}                               
+@{IMG "GUIDEDIR:files/spookytm.jpg"}
+Why not set a more eerie setting with AmigaOS 32se Theme called Spooky
+   
+  
+@{" Spooky Theme " SYSTEM "c:execute themescript"} 
+@{JLEFT}
+     1. Click above button 
+     2. Import theme from top menu Themes/Theme Import/Export
+     3. from top menu Themes/ThemeLauncher find and select Spooky theme
+
+                                     *    
+     
+                          TURN OFF YOUR LIGHTS!
+                            
+                                    AND
+                               
+                           HAVE A SPOOKY TIME!
+                           
+                           
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *                           
+                           
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     * 
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *
+                               
+                                     *                          
+@{JCENTER}
+Click
+@{" Eerie sound effect " SYSTEM "play16 files/eerie.wav"}
+@{JLEFT}
+                                     *
+@{JCENTER}                               
+@{IMG "GUIDEDIR:files/story.jpg"}
+@{JLEFT} 
+       So what was it ? 
+       I would like to think it was the blueprint of the Amigas future
+       that's going on right now behind the curtains ! There is always 
+                           
+                           something cooking ;)
+       
+       
+       
+                                     *
+
+@{JCENTER}
+@{IMG "GUIDEDIR:files/thetunnel2.png"}@{JLEFT}
+                  Scary games exists even for the Amiga !
+@{JCENTER}
+@{IMG "GUIDEDIR:files/thetunnel1.png"}
+@{JLEFT}
+       This is my own cooking ;) Exclusive giveaway for my readers !
+       
+       You had a argument with your girlfriend, she ran into the tunnel
+       Do you dare to follow her ?
+       People has disappeared in the tunnel, be quiet or you will die ! 
+
+
+       Control: WASD keys
+
+
+       Minimum requirements:
+
+       AmigaOS 3.x, AHI installed
+       RTG card 1280x720x16
+       68040/060 50Mhz (no FPU is required)
+       128MB FastRam
+
+
+       The key here is to be quiet, so move very slow and change "lane"
+       Go ahead and try it, no install needed, click make Assign first
+       Unpacking will take some time...
+       
+@{JCENTER}
+@{" The Tunnel " SYSTEM "win GUIDEDIR:files/TheTunnel"} 
+Show folder
+@{JLEFT} 
+
+
+                                     *
+
+@{JCENTER}
+@{IMG "GUIDEDIR:files/np1.png"}
+@{JLEFT}
+       Negative Process by Ephidrena
+       Amiga Aga 060 demo 
+       
+       Very nice track and effects..
+       This demo has a eerie feeling
+
+@{JCENTER}
+@{" NegativeProcess " SYSTEM "c:execute demoscript2"} 
+Unpack & show folder
+@{JLEFT} 
+                                     *
+@endnode
+  
+@node "page2" "My setup"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}                  
+  @{IMG "GUIDEDIR:files/1200_sm.jpg"} 
+Asahi grey, bought it summer 2025
+@{JLEFT}
+       
+       My goddamn experiments...
+       
+       Did some work on it summer 2025, the keyboard has actually moved
+       to my new rasin printed white A4000 keyboard case, so at the
+       moment case is empty, I do have another A500 keyboard just need
+       to exchange keycaps to black ;)
+       
+       So as I mentioned did some big thinking and came up with a idea
+       Mac mini M4, praised for it's power and been quiet, it is MacOS
+       so was not really what I wanted, I stripped it out of it's case
+       and tried to fit it inside the A1200 case. It did not fit, would
+       need a lot of work, sandwich pcb's would need to sit beside not
+       on top to fit inside... did think a week over it and sold the Mac.
+       
+       There is not much room for anything really powerfull
+       
+       
+@{JCENTER}       
+@{IMG "GUIDEDIR:files/rear.png"}        
+@{JLEFT}       
+       This is a fast mockup pasted rear gaming pc laptop piece
+       Gives the Amiga a modern gangster look with big exhaust pipes 
+                                  ha ha ha
+                               
+       I had this A1200 on my desk as a USB keyboard before I got the
+       resin printed case...
+       
+       It felt a bit strange...big and chunky... the design is so nice
+       
+       Now I have A4000 keyboard, it is a pretty big thing compared to 
+       keyboards of today it's about 10% larger and the design needs 
+       this space otherwise it be like todays keyboards, you have to 
+       look for the brand on most since you can't tell them apart 
+       
+       Most of my important Amiga years in 90s I had a A4000D & A4000T
+       and everything fits inside, you could even hide cash in it ;) 
+       
+       I did have A1200 before and after the 4000s...
+       
+       I remeber always having problems to fit anything inside A1200
+       case and many things was outside like CD-ROM, Zip, modem etc.
+            
+       Today it would be extra backup drives.. I have one 5TB for this,
+       slow rotating thing but it's only for backup and another 1TB
+       rotating HDD that's used for mp3s and photos, movies and DLs
+       
+    
+       A1200 is iconic, I love it...
+       I have found memorys of the A1200, price was right and it took 
+       actually less desktop space than a A4000D
+       
+       Since I'm content creator I want the fastest possible Amiga and
+       backups are important and needs to be easy and fast to execute
+       
+       
+       What can be stuffed inside this case?
+       
+       
+       Fastest "real" Amiga or emulation
+       
+       1. Best FPGA       Apollo V4SA 
+       2. Best emulation  Laptop pcb/x86 SBC
+       3. Both options ;)
+                  
+       I want it to be my only computer on my desk
+       
+       I did look for a new laptop euro 2300, RTX5070 12GB since I do
+       PC gaming... this is way too expensive and a great risk that it
+       could end in disaster
+       Then there is the noice level, gaming laptops are known for it
+       and I hate fan noice, I can't think creative with fan noice...
+       
+       
+       
+       There is nothing wrong with the PC box I have, it's just that
+       Amiga look is missing... 
+       
+       I want to force my PC inside a A1200 case... arghhhhh...
+       
+       
+                                    ***
+              
+       I'm going to put my investigation on ice & wait for the future
+                             
+                                    ***
+                               
+                               
+@endnode
+
+@node "page3" "Apollo Computer"          
+   
+  @{JCENTER}
+  @{IMG "GUIDEDIR:files/32seonliner.png"}                  
+  @{IMG "GUIDEDIR:files/v4.png"}
+Apollo Standalone V4+ 
+@{JLEFT}       
+       It should be renamed! Apollo A1400 ;)
+       
+       ok! I'm to fire off! this is my take on it do not get all
+       fired up please...
+       
+       This is the only NG 68k Amiga, no emulation all chips are
+       recreation and upgraded on to a single FPGA!
+       No ARM, NO Pi, No Linux, no cheating...
+       
+       If you look at a chip say a 68030, the top layer has all
+       the transistors and it's jam packed, all other layers all
+       way to bottom is wiring to create logical gates and power
+       the hole thing... in very simple explanation
+       
+       FPGA is much the same but many of the transisitors is used
+       to control routing etc.
+       
+       So what I'm saying is that the FPGA can replicate a chip
+       as long target is slower than FPGA gates and it depends
+       what marginal you need to keep timing correct 
+       
+       
+       Apollo V4
+       
+       Upgrades...
+        AGA   > SAGA
+        68060 > 68080
+        Paula > Arne 16 Stereo channels/16bit        
+        ARGB  > HDMI
+       
+       Added stuff...
+        Maggie 3D
+        RTG
+        Flicker fixer 
+        
+       Ports...         
+        IDE 
+        2x DB9        
+        SD card slot
+        Ethernet
+        HDMI
+        Several USB slots for Mouse/keyboard/Gamepad
+        
+       USB uses legacy mode, may in future be a real USB 
+       
+       Most of the old ports are gone
+       
+       Fast DDR3 memory from 512MB - 2GB
+       Chipmem is 12MB (Chipmem is not separate, uses same DDR3 chip)
+       
+       
+       There is 13+ years of work put in it
+       
+       Some people are attacking new owners of Apollo products, if
+       they "Apollo Computer" did not exist Amiga 68k would be
+       stuck in 90s 
+  
+       It is everybodys right to have their own opinions about
+       Apollos 68k Amiga compatible computers..
+       
+       Some just want the old genuine Amigas and that's ok
+       We should also appreciate new "Amiga" options!
+       
+       
+       
+                             HOLD YOUR HORSES
+                             
+       I may have made you interested in these Amiga clones...
+       
+       What Apollo doesn't say clearly is that the FPGA is still in
+       development, expect bugs, not 100% compatible with Amiga chipset
+       
+       I can point out some examples, 
+        
+        HDMI output does not work with all monitors
+        IDE port may give transfer problems
+        USB ports does not work with all types of keyboard/mouse
+        On chipset part I can't list up anything since last core I used
+        was 10000 and it's ages ago... 
+        
+       I'm not to scare you away just saying it's still in development
+       and requires of you some more Amiga knowledge or you are stuck
+       into asking about every problem you encounter!
+       
+       
+       
+                                   * * *
+                               
+                                                             
+@endnode
+ 
+
+@node "page4" "Me rambling" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/teabag.jpg"}@{JLEFT}
+  
+       If you are female then try think you are a male or have balls !
+       
+       
+       I'm trying to make my point here ;)
+       
+       We all love our cup of tea, we take care and get what we love..
+       
+       In Amiga market you don't get to choose, you dip your balls in 
+       a cup of hot water and see...
+       
+       It's starting to look like fortune telling ;)
+       
+       You know what you want... and you search for solutions and 
+       options and you balls are getting hotter... value is bad
+       
+       Doesn't matter if it's new/old stuff... your balls are burning
+       
+       
+       AND NOW YOU YELL !!!!!! SHIIIIEEEEEEEEETTTTTTTT !!!!!
+       
+          
+       Why the hell did Commodore DIE and Amiga with it...
+       
+       
+       Don't take this wrong, Amiga is still here but more like a 
+       hobby/retro thing...
+       
+       
+       Can it be revived for the big audience again ?
+        
+                               
+       How can this be executed ? Both HW/SW wise in short time..
+       
+       · Kernel, Linux optimized for AmigaOS
+       · x64 PCs easy to obtain both used and new
+       · AGA Chipset FPGA in a PCIe slot can also act as HW lock for AOS
+                       
+       
+       Not much point in counting up more, it's never gonna happen anyway!
+       
+       
+        
+                                   * * *
+                               
+       
+              
+@endnode         
+         
+@node "page5" "Hardware" 
+         
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/mister-commodore.jpg"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/mister_build1.jpg"}@{JLEFT}
+       MickGyver has built a Teac case with a CDTV keyboard & MiSTer
+       
+                               
+       MiSTer FPGA open-source project
+       
+       It aims to recreate various classic computers, game consoles 
+       and arcade machines.
+       
+       It's like a Swiss army knife, does all but not that well.
+       Does this apply to MiSTer ?
+       
+       The MiSTer SoC (FPGA+ARM) uses ARM to load selected core
+       and provide network and probably more
+       
+       I will only look at the Amiga core
+       
+   @{JCENTER}@{IMG "GUIDEDIR:files/mister-fpga.jpg"}@{JLEFT}    
+       MiSTer hardware
+       
+       Various add-on boards
+       · Supports max 128MB SDRAM (Amiga core is happy with 32MB)
+       · USB hub 
+       · Analog I/O  
+       · Digital I/O
+       · RTC
+       
+       Some features of the core
+       · OCS,ECS,AGA
+       · 68020
+       · 0.5 - 2MB Chip        SDRAM module is used for Chip
+       · 0 - 384MB Fast        Onboard DDR3 is used for Fast
+       · RTG up to 1920x1080   SDRAM module is used for GFX memory
+       · Connection to internet by Linux running inside SoC (FPGA+ARM)
+       · Shared folder between Amiga and Linux
+       
+       Looking online I've seen sysinfo score around 7MIPS
+       
+       If we compare this to Vampire V4 it is clear that MiSTer plays
+       with early/mid 90s performance/features  where V4 is in the 
+       future even surpassing fastest overclocked 68060 with a large 
+       margin. Their aim is not the same.
+       
+       
+       MiSTer cost less and are you only for classic Amiga, it will 
+       run most games, only CPU demanding things would fail. 
+       
+       You can probably forget
+       · Amiga ports like Quake and others
+       · Demanding Demos
+       · Heavy apps like Lightwave and others may test your patience
+         
+         
+       MiSTer is without doubt a nice device and versatile!
+       
+       
+         
+                                   * * *         
+              
+@endnode 
+ 
+@node "page6" "AmigaOS 32se" 
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/se4.jpg"}@{JLEFT}
+  
+       I think AmigaOS 32se is mostly done as for now.
+       It receives updates when 32se own code needs to be updated
+       
+       If long time passes I'll do only 3rd party update as well
+       
+       Latest changes was to change online services and add
+       32se onliner, is it usefull / fun addition to your Amiga?
+       
+       You can always update 3rd party stuff yourself, take a
+       backup first! You might fuck something up! ;)
+  
+  
+  
+       So for those not running 32se or new to 32se
+       How do I get 32se onliner right to my Amiga instead of DL
+       it with PC/Mac and then transfer to Amiga...
+       
+  @{JCENTER}@{IMG "GUIDEDIR:files/se1.jpg"}@{JLEFT}
+       You find on top menu 32se/About 32se
+       and then you click Online check
+       
+       
+       
+            
+  @{JCENTER}@{IMG "GUIDEDIR:files/se2.jpg"}@{JLEFT} 
+  
+       A window pops up just to tell you it's online loading
+       
+       
+       
+             
+  @{JCENTER}@{IMG "GUIDEDIR:files/se3.jpg"}@{JLEFT} 
+  
+       32se Notifications telling me my 32se is newer
+       yeah I'm right now working on a update
+       Normaly it would tell you...
+       · There is a new update
+       · You have the latest update
+       
+       Click Close
+       
+       
+       
+       
+  @{JCENTER}@{IMG "GUIDEDIR:files/se4.jpg"}@{JLEFT}
+
+       32se onliner pops up, all files in RAM: only!
+       Save it if you want to access it in future,
+       when new issue is online old is gone!
+
+
+                                   * * *
+                               
+                               
+                               
+@endnode
+
+@node "page7" "Curated fun"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/luminagia.jpg"}
+I love it, feels so live and 3D with a nice track to it!
+Beware even a fast Amiga it takes time before demo runs!
+
+
+Loonies present
+
+Luminagia
+
+An Amiga 4k for Breakpoint 2009
+
+Synth, effect code, design: Blueberry
+Music, colors, design: Maytz
+
+This intro was originally planned for
+Breakpoint 2008, so it has been quite
+some time underway. Read our diary
+article in Zine #14 for the whole story.
+
+This is actually the first time I
+(Blueberry) do 2D (or fake-3D or 2.5D
+or whatever) voxel. About time. This
+intro features (as usual) a brand new,
+specialized C2P, this time a hybrid
+CPU/blitter one (using the copper to
+control the blitter) in order to save
+on the amount of data written to chip
+memory by the CPU, enabling the voxel
+to run oneframe.
+
+Thanks to Tulou for assisting with
+testing, and greetings to every Amiga
+scener out there.
+
+In loving memory of Rune Zedeler, who
+followed this intro closely but
+unfortunately never saw it completed.
+I think he would have liked it.
+
+Demos are meant to be oneframe.
+
+
+@{" Luminagia " SYSTEM "c:execute demoscript"} 
+Unpack & show folder
+  
+
+*
+
+
+@{IMG "GUIDEDIR:files/alien_bash_2_02.png"}
+@{IMG "GUIDEDIR:files/alien_bash_2_03.png"} 
+Alien Bash II Released 1996 Amiga Format
+Inspired by Chaos Engine, I like it plays
+like a AAA game !
+
+   Coder: Glen Cumming 
+Graphics: Myles Jeffery
+   Music: D. Trauemer  
+          Glen Cumming 
+
+
+@{" Alien Bash II (WHDL) " SYSTEM "win GUIDEDIR:files/alienbashII_WHD"} 
+Show folder  
+@{JLEFT}
+
+
+                                   * * *
+
+@endnode
+
+@node "page8" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{JCENTER}@{IMG "GUIDEDIR:files/me.jpg"}
+A version of me ;) ha ha ha
+  
+This issue is super early just so we can cleanout the New Year
+
+Thanks for reading and all, I hope to see you in next issue...
+I'm not to do this in schedule, when I have something... 
+                
+I'll be back ! It be sooner rather than later.. ha ha 
+             
+And until next time USE YOUR A@{"M" LINK "cliffhanger"}IGAAAAAAaaaaaa....! ;)
+  
+/8080  
+
+If you like what you see, want me continue doing this crazy thing
+you can support me directly by PayPal link found at 8080.itch.io
+
+  @{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
+
+@node "page9" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during online check then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
+
+
+@node "cliffhanger" "Next Issue Teaser"
+ 
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  
+
+@{IMG "GUIDEDIR:files/ch1.png"}
+See you in next issue!!!
+@{JLEFT}
+@endnode
