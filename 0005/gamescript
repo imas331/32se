@@ -1,8 +1,0 @@
-; 
-;   $VER: 32se gamescript 1.0 Copyright 2026 Sami Vehmaa
-;
-assign ttt: ""
-lha x ttt:files/thetunnel.lha ram:
-win ram:thetunnel
-  
-  
