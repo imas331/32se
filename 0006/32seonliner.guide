@@ -1,0 +1,684 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0006 14.02.2026  @{fg shine}32se onliner !@{fg text}                            Music @{"on" SYSTEM "hip files/mod.module"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+     (Wasteland - tracker module by Bit Arts/Red Sector Megademo - 1989)
+   
+                  @{fg shine}Welcome to sixth issue of 32se onliner! ;)@{fg text}
+      
+  
+                                 ··········
+                             ,:;=*CYI/+++\IL=+,
+                         .;&AZOYJI**+-;:-,,-:+=+L;,
+                      ,AHRKOPJ**----,,,···,,--:\-+IL,
+                    ,6EHKRZFJ*-/---,,,·····,,--:;\-*IO,
+                   ,AEHRAZOVI+----,,,··········,,--;=*II
+                  ;AWHRKKXCI=/--,,,·············,,,--+*IL
+                 .HBEEHKR&I+/--,,,···············,,-:\;*IL
+                .;REHRKROLI*-;-,,,················,,-;-\*IF
+                .EHEHDSZOTJ*-\-,,,················,,-:-=+I*L:
+                .EEEHAGOPTI+\-,,,··················,,-:-+I*II
+                :EHEEBDOPJ*=-;:+-,,····,,··········,,-;/II11I
+                :HEEBWADSFJI-\--::--,····,,,,----,,.,,:JAIIJI
+                :ZKREWXRKSCI*=--;::;::,.-:/-/;;::--,.//KFLYT;
+                .XACHWEKS*;:--6-\:,.:;:,//;.,;=,,,,..,IRFYT&'
+                'HDWNBC/JNMMMMMMNBC+=--;-,-JHMMNMWRA;,.HFTYT
+                 XANMH/JMMM   MMMMEHAJI*=:IMMMM   MMMB*YYJLT
+                 EBWYD1HEM  @{"*" LINK "page8"} WMMMBHAP*,1,HNMM @{"*" LINK "page9"}  MMMM:.\TLY
+                 EWMZS\9BWNM   MWBWEPI-.I.EBWNMM   MMN;.:IYL 
+                 CBNDNE\CHBEBEEBR/HEPT&I;:'YI&SEBWNNWB:.:LLT
+                 /XKAWB\-JYNBXS/JHETMXHNL=+--,*TWBENEP,.-LYL,
+                 SXRCBWBO&+*ICKHWNCBMARMMA\\-=\*.*,,,:;1.,;I'
+                  TEBWHI-*/;TRJJTBDMMXKMMEI-;*JZLZJI*=--;/Y'
+                   'THCL;,.\-:;AENCMMAGNMHI-*F;\IJDHSI/IJF
+                     :ENBWM6+*JKHEF:*TYT*I-;-\L\A6NHGTJIF
+                      =AWHWMWYDRKY1:+:YI-I-I\,1:MMNIRXHJ
+                       XHPNMHAKZDCY-K:AI,I,I,1,\WMMWIYI
+                       KPOMMOIGL@{" " LINK "page5"}I@{" " LINK "page6"}C@{" " LINK "page7"}=@{" " LINK "MAIN"}I@{" " LINK "MAIN"}V@{" " LINK "MAIN"}-;JMMBIJ'
+                       XZFBNDRLIB1HLB.W1.LL,I\I,JWH/IJ
+                       OTA6BHZLI@{" " LINK "page1"};@{" " LINK "MAIN"}T@{" " LINK "MAIN"}=@{" " LINK "MAIN"}=@{" " LINK "page3"}I@{" " LINK "page4"}II\-JVZ:JI
+                       ZXSH&BEKLH0E1IIY-I/:1IJ=*J:/TIJ,
+                       YDRETLHTTLZIJJITJLII11:\-,.*TJI
+                        =-F&TVI6I*+/;:T:I:I-16.,:/J/-
+                          'VFTLIII=\;:JL:,...7,7JJ/
+                             'TJCYJJIV/\V,,,/,JV'
+                               'TL\:=+L.J==/JF-
+                                 'TOD6X&LJF''
+                                     ''''                               
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@endnode 
+
+
+
+@node "page1" "Goonies"          
+ 
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+@{IMG "GUIDEDIR:files/goonies/g2sm.jpg"}
+@{JLEFT}       
+    One of my all time favourite movie, it's 41 years ago 1985 movie
+    was released, at the time I did play it on C64 & ZX Spectrum and
+    how many times I've watched the movie? yeahhh it has to be in
+    top 5. Somehow game jumped over the Amiga platform...
+
+
+
+@{JCENTER}
+@{IMG "GUIDEDIR:files/goonies/gcv.jpg"}
+VHS cover
+@{JLEFT}    
+    Some reports are coming in that Spielberg is in on a sequel,but 
+    don't hold your breath for too long... some say it's bs
+    
+    
+@{JCENTER}
+@{IMG "GUIDEDIR:files/goonies/c64c1.png"}
+Commodore 64 version
+
+
+
+
+
+
+
+Now hold your pipes ;)
+
+
+
+
+
+
+@{IMG "GUIDEDIR:files/goonies/1.jpg"}
+The bone organ from the movie
+@{JLEFT}       
+
+
+
+
+
+@{JCENTER}
+@{IMG "GUIDEDIR:files/goonies/gn1.png"}
+@{JLEFT}
+     WTF are we gonna have the game for Amiga anyway!
+     
+     
+     We have something going on for the Amiga...
+     Marlox is making a MSX conversion for the Amiga and it looks
+     really good and it's fun to play!
+     
+@{JCENTER}
+@{IMG "GUIDEDIR:files/goonies/gn0.png"}
+@{JLEFT}     
+     To the right is a first alpha demo and it uses scaled MSX gfx
+     Now to the left 2nd demo Marlox has begun upgrading gfx
+     marlox.itch.io/the-amigoonies
+     
+     You can play both old/new version 
+@{JCENTER}     
+@{" AmiGoonies 0.1 " SYSTEM "c:execute ag1script"} 
+@{" AmiGoonies 0.2 " SYSTEM "c:execute ag2script"} 
+Unpack & show folder
+@{JLEFT} 
+
+
+
+
+
+     Now if you are like me and want some more fun right now...
+     
+@{JCENTER}
+@{IMG "GUIDEDIR:files/goonies/screenshot1.jpg"}
+@{IMG "GUIDEDIR:files/goonies/screenshot2.jpg"}
+@{JLEFT}
+     https://goonies.jorito.net/
+     
+     I found this to be the best version I could find and
+     it's as fun as the AmiGoonies ;)
+      
+     If you follow link you find both Win/Linux versions,
+     now I'm running on Linux and found it not so easy
+     to get it run on fullscreen but install on Heoric Games
+     app fixed this issue. 
+     
+@endnode
+
+
+
+@node "page2" "" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}                            
+  @{JCENTER}@{IMG "GUIDEDIR:files/aa1iwiuj.jpeg"}@{JLEFT} 
+  
+     My take...
+  
+     You enter the office, there is a Amiga setup among all other "PC"
+     setups but your eyes only catch this one...
+  
+     You see whatever you wanna see... right?
+@{JCENTER}     
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+  @{IMG "GUIDEDIR:files/a4400.png"}                                           
+;)
+@{JLEFT} 
+@endnode         
+       
+       
+       
+         
+@node "page3" "Return of SLL" 
+         
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/sll/floppydd.png"}@{JLEFT}
+  Return Of SLL 1988                       Track 1 @{"  " SYSTEM "hip files/sll/mod.sll1"}
+                                           Track 2 @{"  " SYSTEM "hip files/sll/mod.sll2"}
+  Code  Ghostrider                         Track 3 @{"  " SYSTEM "hip files/sll/mod.sll3"}
+  Text  Kermie                             Track 4 @{"  " SYSTEM "hip files/sll/mod.sll4"}
+  Music S.L.L Sten Lysholm Larsen Denmark  Track 5 @{"  " SYSTEM "hip files/sll/mod.sll5"}
+                                           Track 6 @{"  " SYSTEM "hip files/sll/mod.sll6"}
+                                           Track 7 @{"  " SYSTEM "hip files/sll/mod.sll7"}
+                                           Track 8 @{"  " SYSTEM "hip files/sll/mod.sll8"}
+                                           Track 9 @{"  " SYSTEM "hip files/sll/mod.sll9"}
+  
+                                           @{"off" SYSTEM "hip quit"}
+  
+  I was browsing in imp3 looking for a track for this issue ohhh wow... 
+  I have very found memorys of this disk, this was often played on my 
+  A500 around 1988 and forward...
+  
+  Jewels-ReturnOfSll.adf is in archive, I did not find a WHDL version
+  
+  It bring many memorys...
+  
+  Ackerlight/Speedball Intro @{" WHDL " SYSTEM "wbrun files/Ackerlight_Speedball/Acker"}
+  
+  Now on my memorylane I've put together from my memorys a game list ;)
+  Got the WHDL version of them and Atari joystick plugged in, let's game 
+  
+  Alien Breed               So smooth gfx crazy feel to it
+  Alien Syndrome
+  Barbarian
+  Battleships
+  BattleSquadron
+  Bionic Commando
+  Cabal                     Very nice tune
+  Defenders Of The Crown    This was crazy in the days
+  Dr Mario                  All the games are so cool
+  Fright Night              Pretty hard game but aren't they all?
+  Fusion
+  Future Wars
+  Great Giana Sisters
+  Hybris
+  Insanity Fight
+  It Came From The Desert   Ohhh what memories
+  Lemmings                  Oh my good
+  Menace                    Again my favourites
+  North And South           They are crazy many nice games
+  Obliterator
+  Racter                    
+  Rainbow Islands
+  Red Heat
+  RType
+  Sarcophaser               This was my first Amiga game I've played
+  Sex Machine               OR was it this one.... ;) now I'm not sure 
+                            this is the actual game back then, there 
+                            was only a dick and a meter but I can't 
+                            find it...
+                                                    
+  Shadow Of The Beast
+  Silkworm
+  Speedball
+  Stunt Car Racer
+  SWIV
+  Sword Of Sodan            This was also a totally crazy good game
+  Venus The Fly Trap        Very nice tune in this one as many others
+  Xenon
+  Zany Golf                 It was and is damn slow on stock A500 and
+                            still I played it like crazy
+  Zynaps
+ 
+  I'm not to include the games since they are commercial games...
+  
+  
+                             These 3 disks are already in 32se distro
+  His Masters Noice          @{" Open 32se folder " SYSTEM "win apps:Music Disks/"}
+  Sound of Gnome             
+  Megademo Red Sector Inc  
+  
+           
+                                   * * *                       
+
+@endnode 
+ 
+ 
+
+
+@node "page4" "Curated fun"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  
+  
+      Curated fun for everyone... ;)
+      
+       
+  @{JCENTER}@{IMG "GUIDEDIR:files/youngdefender.jpg"}@{JLEFT}
+
+      Young Defender, AGA with fast mem
+      Copyright © 1996 Eclipse Software Productions 
+      
+      I stumbled on this one in a PD archive, a nice shooter ;)
+      
+      Humanity is on the verge of intersellar exploration. The 
+      perfect time for aliens intent on conquest to expand their 
+      empire before man can improve his technology and therefore 
+      his defensive capabilities.
+
+      There is one ship with any hope of stopping the aliens. An 
+      experimental design, there is only one trained pilot whose 
+      age means he is lacking in combat experience. YOU are that 
+      pilot.
+
+      With Earth in such desperate need, you are called to duty 
+      as your home planet's Young Defender.
+
+      A mission briefing will be displayed before the start of 
+      each level.
+
+      Good Luck!
+    
+@{JCENTER}      
+Open @{" Young Defender " SYSTEM "win GUIDEDIR:files/youngdefender/"} folder 
+@{JLEFT}  
+      Folder contains CD32 cover + ISO file, double click ISO
+
+
+
+
+
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/wbtris.jpg"}@{JLEFT}
+
+      WBTris
+      Copyright ©1993 Dirk Böhmer & Ralf Pieper
+      
+      I like system friendly coding and this games works really
+      good and is fun to play!
+      
+      Arrow keys + enter to dump
+      
+      
+@{JCENTER}      
+Unpack & show @{" WBTris " SYSTEM "c:execute game2script"} folder
+@{JLEFT}
+@endnode
+
+
+
+ 
+ 
+
+
+@node "page5" "Norrland"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  @{JCENTER}@{IMG "GUIDEDIR:files/n10.jpg"}@{JLEFT}
+      Norrland, AGA with 12MB free fast mem
+      Copyright ©2026 Sami Vehmaa
+      
+      Story
+       
+      At 56 you took a chance on this undercover detective job! 
+      Maybe you are too old for this...  Theres something going on 
+      in northern parts of Sweden and you are here to uncover it all.
+       
+      As a undercover you need to maintain your normal delivery job
+      and help out those living in outposts scattered around while 
+      you investigate the death of a curior.
+       
+      You think, easy.... nope there is alot to keep track on like
+      ammo, food, cold, dangerous animals...
+      
+       
+      Game details
+      
+      · open world
+      · adventure
+      · survival
+      · one player
+      · light RPG elements
+       
+      In game
+      
+      · Joystick / Arrow keys + space
+      · Fire button fires bullets
+      · Hold fire for backpack + info (health, help etc.)
+      · C display free chip
+      · F display free fast
+      · ESC displays options Save/Continue/Quit game
+      
+      In menu
+      
+      · V displays version & free memory
+      · P changes game resolution 200/256 lines
+      · Fire starts new game
+      · 1 continue saved game
+      
+       
+      8080.itch.io/norrland
+      There is no demo DL on the page yet...
+      
+      This is a exclusive DEMO for you to try out!
+      
+      Some features are missing in demo like save game
+      And game is still in development, this is not final!
+      
+      
+@{JCENTER}      
+Unpack & show @{" Norrland " SYSTEM "c:execute game3script"} folder
+@{JLEFT}      
+@endnode 
+
+
+
+
+@node "page6" "Gerp 2026"
+ 
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+      One of my favourite things is to hunt and run demos with a cold 
+      beer ;)
+      
+
+      Gerp - A Swedish Demoparty  @{" gerp.nu " SYSTEM "run apps:internet/netsurf/netsurf gerp.nu"}
+      23rd - 25th January 2026 · Skövde kommun, Västra Götaland Sweden
+      
+      @{" demozoo.org/parties/5382/#competition_20625 " SYSTEM "run apps:internet/netsurf/netsurf demozoo.org/parties/5382/#competition_20625"}
+      
+      Above 2 links will use Netsurf to access internet
+      
+      
+  @{JCENTER}@{IMG "GUIDEDIR:files/mfnk.jpg"}@{JLEFT}    
+      
+      Amiga 40k Intro
+      
+      1. Moral Fiber              Nah-Kolor
+         Peasoup                  Planet jazz
+         5%                       Fnuque
+         Cognitive Sovereignty    Offence
+         Cameltoe                 Bitbendaz
+         Honor2Crackers           The Twitch Elite
+         Vixtro                   Awesome Games
+         
+         
+         
+  @{JCENTER}@{IMG "GUIDEDIR:files/bhd.jpg"}@{JLEFT}    
+      
+      Amiga Demo 
+
+      1. Bacon of Hope            Desire
+         Lab Lizards              Five Finger Punch
+         Big Hat, No Cattle       Bitbendaz
+         Is My Parents a Scener?  Istari 
+         Major Lagberg            Dead Hackers Society
+         Knight Chips 3           The Electronics Knights
+         Travels in Saudi-Arabia  Hackers Media Industries
+         
+              
+@{JCENTER}      
+@{" Show winners files " SYSTEM "win GUIDEDIR:files/gerp2026"} 
+@{JLEFT}  
+        
+@endnode 
+
+
+
+
+@node "page7" "Me rambling"
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+      pil cuman to issue 6 of 32se onliner
+      
+      I'm almost daily reading something crazy, where has the
+      normal days gone ??? and the word/letters AI is smeared
+      all over everything today...
+      
+@{JCENTER}
+* * *
+@{JLEFT}                               
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/doombuds.png"}@{JLEFT}
+      doombuds.com just so you see I'm not joking
+      
+      So what the hell, earbuds has more power than a stock A1200
+      now it's probably even faster than 030 at 50Mhz
+      
+      Earbuds are running Doom from 1993 at a decent speed 18fps
+      
+      Another perspective..
+      
+      Intel has released it's latest x86 Panter Lake at 1.8nm
+      The last rev of 68060 was at 0.42µm that's 420nm 
+      
+      THAT'S WOPPING 233 times smaller, then you think but 68080
+      then... Cyclone V FPGA 28nm (Intel CPU around 2009 32nm)
+      Now I'm not to compare FPGA since they are more complex
+      and this holds the speed back.
+      
+      Amiga is not advancing in the industrial speed... and no
+      way in a leading position
+      
+@{JCENTER}
+* * *
+@{JLEFT}        
+
+@{JCENTER}@{IMG "GUIDEDIR:files/ps1.jpg"}@{JLEFT}
+  
+     PocketStorm FPGA+Pi displayed at Amiga40 Germany
+     
+     Developer Claude Schwarz
+     
+     On issue 3 I briefly mentioned it that it could be a big hit if it 
+     was released!
+     Now I'm been thinking ahead of things and while this setup is 
+     really cool I think I have a idea!
+     
+  @{JCENTER}@{IMG "GUIDEDIR:files/nanto20k.png"}@{JLEFT}    
+       
+     Tang Nano 20k
+     
+     This is the board used in PocketStorm, now my idea might fit 
+     with this board or a custom or whatever.
+     
+     FPGA with a single USB port
+     
+     FPGA is only to contain chipset and stream video data trough USB
+     
+     The other part where you plug in the unit may it be Pi5, PC, Mac 
+     has a 68k+RTG emulator
+     
+     There could be optional bigger FPGA so a 68k would fit inside with 
+     option to switch on/off     
+        
+     So on the "PC" the emulator get the chipset RGB feed and if chipset
+     is in active state PAL/NTSC resolution then emulator displays
+     the data to screen, if RTG is in use it will discard video data
+     but Paula and all other data will still be in use ;)
+     
+     It should have maximum possible chipram on FPGA board with a 
+     optional switch 2/8MB
+     
+     Fast RAM is provided by PC, now if the FPGA was to have a 68k
+     option I'm not sure how fast RAM would work over USB interface
+     
+     
+     Is it plausable ?  
+     
+@{JCENTER}
+* * *
+@{JLEFT}      
+           
+  @{JCENTER}@{IMG "GUIDEDIR:files/wedge07.jpg"}@{JLEFT}   
+  @{JCENTER}@{IMG "GUIDEDIR:files/wedge08.jpg"}
+Notice the DVD player
+@{JLEFT} 
+  @{JCENTER}@{IMG "GUIDEDIR:files/wedge09.jpg"}@{JLEFT}     
+       
+      ITX small form factor Amiga computer case
+      
+      You can Google it and it's on Cults 3D you find it. It's a crazy 
+      build, it has a gfx card in it and it has 3 displays running, 
+      there is a video showing it :)
+  
+      However the keyboard has wrong layout & Win keys :(
+      
+@{JCENTER}
+* * *
+@{JLEFT}    
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/amiga1600.jpg"}@{JLEFT}
+  
+      Amiga 1600 by EMD69
+  
+      It has PCMCIA port on the left, right side 2x 9-pin DSUBs
+      Front CF slot, Gotek, Floppy
+      
+      Not much is revealed, but looking at the position of PCMCIA slot 
+      & 9-pin Joy/Mouse ports and the name.. I'll say it's a A600
+      motherboard in it. If it was something else, who would put a
+      PCMCIA adapter in it ?? nobody!
+      
+@{JCENTER}
+* * *
+@{JLEFT}    
+  
+  @{JCENTER}@{IMG "GUIDEDIR:files/amigawl.jpg"}@{JLEFT} 
+  
+      I built my mini Walker some years ago, hand made. It was really 
+      hard, I want to do a full size but that's in another level...
+      
+      Tech: Pi4 OC, front USB hub, original A1200 orange LED below
+      USB port, theres a big slow rotating fan inside to keep it cool
+      
+@{JCENTER}
+* @{"*" LINK "page2"} *
+@{JLEFT}
+
+           
+@endnode
+
+
+
+
+@node "page8" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT}
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080  
+
+      If you like what you see, want me continue doing this crazy thing
+      you can support me directly by PayPal link found at 8080.itch.io
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "page9" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode

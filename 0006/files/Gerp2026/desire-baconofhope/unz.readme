@@ -1,0 +1,136 @@
+UNZ Music Engine V0.9 by platon42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+What is it?
+~~~~~~~~~~~
+
+UNZ is a music engine that allows to playback multichannel modules
+in a custom format on a standard Amiga 500 running at 7.14 MHz,
+using a real-time 14 bit high quality playback routine, a reverb
+DSP effect and an anti-clicking feature.
+
+It focuses on playback quality and uses 16 bit samples as input.
+It makes sure that the playback is possible on 68000 at 7 MHz,
+but gives no guarantees that you can do much else. It also uses
+a lot of (fast) ram to achieve both fast mixing and high quality.
+
+It's not really suited for running in the background for demo
+effects, but it works nicely for low-CPU end parts etc.
+
+Note that the engine here is an early alpha software, which means
+that it is closed-source, experimental, has limited features and
+requires the coder to perform manual steps during conversion.
+
+
+Multichannel features
+~~~~~~~~~~~~~~~~~~~~~
+
+It (usually) supports 8+4 channels at an mixing frequency of
+27710.117 Hz. This frequency corresponds to the Paula period of 128,
+which is said to have the lowest PWM aliasing distortion on real
+hardware at almost the lowest possible period (124).
+
+Why 8+4 channels? Eight of the channels support mixing of samples
+at any frequency (currently up to A-3), while (up to) four channels
+are limited to a fixed frequency of 27.7 KHz (corresponding to A-3
+finetune -1 on Protracker and A-5 on FastTracker) that can be used
+for percussion instruments and/or sample loops.
+
+It might be possible to go to up to 10 regular channels on
+unaccelerated machines, when skipping the four percussion channels
+(the output will then be mono, instead of left/right).
+
+The normal mixing channels support clipping -- this means that you
+will not hear cracks when the mixing results in an overflow.
+Instead the values are kept within the range. The blitter is used
+to detect an overflow situation and also performs the clipping
+conditionally.
+
+
+Anti-Click
+~~~~~~~~~~
+
+Already popular from my Deli14BitGenie from the 90ties, UNZ will
+try to remove the clicking or popping noise that is created when
+a sample is aborted while the amplitude is not zero. The
+Anti-Click feature will quickly fade out the sample within a few
+milliseconds, but slow enough to avoid a click sound.
+
+Usually up to four sounds at the same time will get the Anti-Click
+treatment. The converter analyzes the volume dynamics of the each
+instrument at the current sample position when it is supposed to
+be cut-off and picks the best candidates for Anti-Click.
+
+
+Why does it need so much memory?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In order to achieve fast mixing, no volume control is performed
+during mixing. This means that all samples need to be stored in
+a different variation to mix it in at a certain volume level.
+Some mixers use volume tables, but this would have been slower
+and would have taken much more memory for 16 bit samples.
+
+The converter makes sure that there are only a reasonable number
+of different volumes generated and the rest is quantized to the
+available volumes.
+
+Using the Fractomat(TM) technology, for each and every mixing
+pitch (period) about 1 KB of speed code is generated. This means
+that portamentos and slides will increase memory requirements
+and are better avoided, unless you want to spend 128 KB and more
+on that.
+
+Luckily, except for the mixing and DSP buffers, everything else
+(e.g. the 16 bit sample data) can go into fast memory.
+
+The DSP uses about 1 KB of chip memory per 20ms delay, so take 
+this into consideration. The reverb is currently limited to 50%
+on any set of the first eight channels (it's done with the blitter).
+
+
+Input formats
+~~~~~~~~~~~~~
+
+The converter will use a multichannel FastTracker (XM) module,
+where the last X channels are used for the fixed-frequency
+percussion channels. Not all effect commands are supported,
+but rather the basic ones (1xx, 2xx, 3xx, 4xx, 9xx, Axx, Bxx,
+Cxx, Dxx, EAx, EBx, Fxx, Uxx (Reverb control)). No CIA timing!
+
+Currently, there is only an AKlang front-end, but it could be
+used with other synths, too, given that they can write each
+sample separately in 16 bit to a buffer. Precalculated sample
+banks also work if you keep the memory footprint reasonable.
+
+The workflow is not so nice right now, you need to create
+your samples in AKlang, export a MOD with 8 bit samples,
+import it into FT2, extend it to 12 channels, save it,
+convert it with my converter, export the exemusic.asm from
+AKlang, run the exemusic.asm through another of my converters
+to make it output 16 bit samples, assemble everything together
+and Bob's your uncle. Easy peasy!
+
+You can use the Uxx command in your music to choose which
+channels should go into DSP and the delay is configurable, too,
+but you cannot hear how it will sound in FastTracker2.
+
+
+Outlook
+~~~~~~~
+
+I might add some realtime table-based lowpass and/or highpass
+filter as another DSP option. Who knows.
+
+Currently, it's rendering every buffer in realtime. Of course,
+it would be possible to render ahead to even-out the channel use
+a bit and make it smoother for some effects running at the same
+time.
+
+
+Wanna try it?
+~~~~~~~~~~~~~
+
+If you're a musician and willing to try out making music using UNZ,
+even if it's a bit of a hassle, you're are welcome to contact me
+(chrisly@platon42.de or platon42 on Discord).

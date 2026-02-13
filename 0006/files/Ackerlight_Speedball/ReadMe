@@ -1,0 +1,16 @@
+
+This patch applies to "Speedball Cracktro" © 1988 Ackerlight
+
+It requires WHDLoad 17+ and 512 KB ChipMem, QuitKey is F10.
+Usual bugs removed (blitwait, aud.vol,...) and colors logo fixed on AGA.
+It supports cracktro from different games, use CUSTOM1 option to select them.
+Set CUSTOM1=1 for Atax & Growth
+            2 for Captain Blood
+            3 for Double Dragon
+            4 for Espionage
+            5 for Speedball
+            6 for Video Generator Master
+
+Cool intro for 1988! :)
+
+Psygore in January 2013.
