@@ -1,0 +1,227 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0007 15.05.2026  @{fg shine}32se onliner !@{fg text}                            Music @{"on" SYSTEM "hip files/mod.module"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+                (Echoing - tracker module by Banana - 1988)
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to seventh issue of 32se onliner! ;)@{fg text}
+      
+             
+                               LET'S DO IT !!! 
+  
+                                             
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+
+
+@{JCENTER}
+@{FG shine}
+***********
+*********
+*******
+*****
+***
+*
+@{FG text}
+
+
+This issue was to cover THEA1200, I'm disapointed !!!
+It was to be the focus point of this issue and if any
+good I would made something fun with it, damn !
+
+@{IMG "GUIDEDIR:files/thea1200.jpg"}
+
+
+@{JCENTER}
+@{FG shine}
+***********
+*********
+*******
+*****
+***
+*
+@{FG text}
+
+
+Sometimes a very special demo gets done, I love this one!
+
+code: Fab  *  music: Virgill
+
+@{IMG "GUIDEDIR:files/highscore.jpg"}
+@{" HIGH SCORE " SYSTEM "c:execute demo1script"} 
+Unpack & show folder
+
+
+@{FG shine}
+***********
+*********
+*******
+*****
+***
+*
+@{FG text}
+
+
+
+@{IMG "GUIDEDIR:files/secondnature.png"}
+There is also Second Nature by Desire & Twitch Elite, but
+it's on a non-dos disk :( go and check it out on YouTube, 
+it's a killer demo!
+
+
+
+
+@{FG shine}
+***********
+*********
+*******
+*****
+***
+*
+@{FG text}
+
+
+Chess game optimised for Amiga with 68020 or better processor.
+Supports OCS, ECS and AGA. Requires Kickstart 2.0 or higher.
+
+This project is proof that Claude AI (Anthropic) handles Amiga C
+programming surprisingly well. Using AI prompts, it is possible to
+create fully featured Amiga games from scratch - complete with a
+chess engine, GadTools menus, PGN support and Workbench icons.
+The Amiga community finally has a new chess game in 2026!
+
+You can make a donation to author, check donate.txt
+
+This is actually a very fun game, well done !
+ 
+@{IMG "GUIDEDIR:files/chess.png"}
+@{" CHESS AI " SYSTEM "c:execute game1script"} 
+Unpack & show folder
+
+
+@{FG shine}
+***********
+*********
+*******
+*****
+***
+*
+@{FG text}
+
+
+Summer is coming up, hopefully we don't stay inside with our
+bellowed Amigas ;)
+
+Life has been hard last 2 years but this year... oh my god!
+My father passed away and I'm experiencing even bigger health 
+issues so I don't know where all this is going to end 
+
+
+
+/8080
+
+
+@endnode 
+
+
+
+
+     
+         
+@node "page7" ""
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT}
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080  
+
+      If you like what you see, want me continue doing this crazy thing
+      you can support me directly by PayPal link found at 8080.itch.io
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
