@@ -2,7 +2,7 @@
 ;   $VER: 32se run_guide 1.0 Copyright 2025-2026 Sami Vehmaa
 ;
 
-lha x -m RAM:32se-main/0008/files/32se/32se_update.lha
+lha x -m RAM:32se-main/0008/files/32se/Update_32se.lha RAM:32se-main/0008/files/32se/
 c:wbrun RAM:32se-main/0008/32seonliner.guide
 
   
