@@ -1,0 +1,217 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0008 21.06.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/mod.module"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+    (Cabal - tracker module by Pierre Eric Laurio/Ocean Software - 1989)
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to eigth issue of 32se onliner! ;)@{fg text}
+      
+             
+                               LET'S DO IT !!! 
+  
+                                             
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+First up... Amiga HW !!!
+
+I'm always in the hunt for the best Amiga HW without breaking the bank
+I think this solution is the best at the moment, it gives you options
+I'm a power user, I need a fast Amiga.. this has the PiStorm option by
+a switch and that's really cool !
+
+
+AmiCube AGA, I'm looking forward for this great Amiga !!!
+
+So what makes this special ?
+
+It has the mandatory AGA chipset recreated in harware level,
+no emulation !
+
+A FPGA with a CPU slot, this makes AmiCube really unique..
+Use a real CPU or drop in a Pi-Storm on a 16-bit CPU slot, 
+however solution is not the best in my opinium, if it had the 
+A1200 32-bit expansion slot it would make it a killer !
+This is still way better than nothing ;) maybe that is the
+natural evolution at the end ?
+
+
+@{IMG "GUIDEDIR:files/amicube.png"}
+Ranko has a video showcasing his AmiCube AGA on YouTube !
+
+
+My take... put AmiCube inside THEA1200 and remove SingelBoardComputer
+Maybe I'm too early on this, maybe SBC is very well done and gives
+you options like a really fast Amiga etc. 
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+AmigaOS 32se update !
+
+This is a first test and evaluation !
+I've been thinking about this for years, now it's time figure it out.
+
+ 
+@{IMG "GUIDEDIR:files/32se_8c.png"}
+You run the updater and after reboot you get the latest news/changes
+displayed in a nice AmigaGuide
+
+Be patient and wait for the automatic reboot
+
+@{" v8.85 Updater " SYSTEM "c:execute install1script"}
+Show updater icon
+
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+Amiga community is strong and things are moving, I have a hope that
+Commodore/Amiga(Cloanto) is todo Amiga HW ;) There is a communication
+but it's too early for anything.
+
+ 
+Summer is here, It's hard to play with the Amiga at 29,6 Celcius
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                        /8080 ..
+
+
+
+
+@endnode 
+
+
+
+
+     
+         
+@node "page7" ""
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT}
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080  
+
+      If you like what you see, want me continue doing this crazy thing
+      you can support me directly by PayPal link found at 8080.itch.io
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
