@@ -1,0 +1,221 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0009 25.06.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/mod.silkworm"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+      (Silk Worm - tracker module by Barry Leitch/Virgin Games - 1988)
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to ninth issue of 32se onliner! ;)@{fg text}
+      
+             
+                               LET'S DO IT !!! 
+  
+                                             
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+First up... Summer sale at itch.io !!!
+
+I'm having a sale like many others on itch !
+Maybe there is something fun for you !
+Since I'm late on getting this info out I have
+extended sales another week ;)
+
+
+@{IMG "GUIDEDIR:files/summersale.png"} 
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+Amiga Demo Starstruck !
+
+Party version by The Black Lotus
+Ranked 1 at the Assembly 2006
+68060 for best performance !
+ 
+@{IMG "GUIDEDIR:files/sstbl.png"}
+
+@{" Download " SYSTEM "c:execute starstruck"}
+
+It's downloading the file, about 18MB be patient
+You find it in RAM Disk
+
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+@{IMG "GUIDEDIR:files/downfall.png"}
+
+A very good and addictive game by Graham Humphrey
+
+@{" Unpack " SYSTEM "c:execute game1script"}
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+My hunt for the Amiga hardware
+
+I've done some thinking and tried to sum it up
+
+    A600GS / A1200NG it has advantages but also it's locked down
+    and I really don't need legacy ports, you can't even use a
+    real Amiga mouse on them.
+    
+    I've tried rpi5 and the experience was not smooth as rpi4
+    
+    N100 SBC maybe ? and do my own setup                      
+    THE A1200      ? I think this has a big chance to be great
+    AmiCube        ?                                          
+    Pocketstorm    ?                                          
+   
+    
+I want new Amiga hardware be it emulation/FPGA whatever. . . . .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                        /8080 ..
+
+
+
+
+@endnode 
+
+
+
+
+     
+         
+@node "page7" ""
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT}
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080  
+
+      If you like what you see, want me continue doing this crazy thing
+      you can support me directly by PayPal link found at 8080.itch.io
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
