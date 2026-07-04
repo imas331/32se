@@ -1,6 +1,0 @@
-; 
-;   $VER: 32se installscript 1.0 Copyright 2026 Sami Vehmaa
-;
-
-win ram:32se-main/0008/files/32se
-  
