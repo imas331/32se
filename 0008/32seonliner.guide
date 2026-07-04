@@ -89,8 +89,7 @@ displayed in a nice AmigaGuide
 
 Be patient and wait for the automatic reboot
 
-@{" v8.85 Updater " SYSTEM "c:execute install1script"}
-Show updater icon
+Removed, go to itch.io for latest version
 
 @{FG shine}
 *** ***
