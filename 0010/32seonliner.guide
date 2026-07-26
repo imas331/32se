@@ -1,0 +1,396 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0010 26.07.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/pinballfantasies_intro.mod"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+  (Pinball Fantasies - module by Olof Gustaffson/Digital Illusions - 1992)
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to tenth issue of 32se onliner! ;)@{fg text}
+      
+
+
+                       .. - ----.
+                     @{"I" LINK "A500"}'__. ..- '';
+                     |           .
+                     |           .
+                     J.
+                      L:..._.- -' .
+                      |.
+                      |.
+                      J:.
+                       L:.. ..- -' .
+                       |.
+                       |.
+                       J:.
+                        LP:._..- -' .
+                        |:.
+                        |:.
+       ________________ J8:,          ______________a:f____
+             a88888baaa. LP:....- -' .
+               `"88888888|8:.        .
+                   `"8888:8::...    _J
+                        " `""PPPP@{"P" LINK "GAMES"}P""'
+
+
+  There is something ASCII art triggers, you fantasy into thinking.
+  Todays and been for many years where art doesn't leave anything
+  for your fantasy to imagine, for me all pipes are open ;)
+  
+  "Dark tower, unknown land, something dark lies lurking inside"
+  
+  It inspires me and helped me out on this issues game selection 
+  and the great Pinball Fantasies module by Olof Gustaffson ;)
+
+
+
+
+
+
+             
+                               LET'S DO IT !!! 
+  
+                                             
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+A new theme for 32se is included !!!
+
+It's called 32seonliner9 and was included in last issue
+but forgot to mention it ;)
+
+@{" Move to RAM: " SYSTEM "c:execute movetheme"}
+
+Use Themes/Theme Import/Export
+
+@{IMG "GUIDEDIR:files/theme.iff"} 
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+@{IMG "GUIDEDIR:files/darkseed.jpg"}
+
+Written in 1992 by Mike Dawson and Mike Cranford
+CD32 release 1994 with full speech (actual)
+
+Horror mystery set in and around a dark and gruesome world
+based on the drawings of Alien artist H.R Giger.
+Man wakes up in his new house, only to discover that a mirror
+in the living room is a portal to an alien world, where
+creatures are planning to conquer our world!
+
+@{" Download " SYSTEM "c:execute DarkSeed"}
+
+It's downloading the file, about 16MB be patient
+You find it in RAM Disk
+
+Game runs in WHDL
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+
+                                         
+   
+    
+                                        Until next time. . . . .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                        /8080 ..
+
+
+
+ps. ASCII tower hides 2 links!
+@endnode 
+
+
+
+
+     
+         
+@node "A500" "My new pet !"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+You found a hidden gem ;)
+
+
+
+
+I've built a "NEW Amiga 500" as I beleive is value for the money,
+the value in this AI crisis can be debated 4ever ;)
+
+My aim was one computer for all and was thinking on Intels/AMDs
+latest CPU/iGPU power houses and shoehorn it inside a A1200 case
+but as this solution is very expensive and not sure the power I
+want from the GPU really was there... and I don't want fan noice
+in my face like laptops do and probably look ugly inside.
+
+So after many months/a year of thinking on this I sold my Mac and 
+PC and build a new PC pimped it in a simple way to bring more Amiga 
+feeling to it.
+
+With my A4000 (3D casted case) USB-C keyboard with real A500 
+keyboard with new A1200.net caps I think I'm happy until something
+else comes along...
+
+
+@{IMG "GUIDEDIR:files/640-1.jpeg"}
+(sorry for the all crap around my desk ha ha ha)
+
+
+I still want play all the modern AAA games and easy switching to
+my Amiga desktop and enjoy all the memorys of retro computing.
+
+
+@{IMG "GUIDEDIR:files/640-2.jpeg"}
+
+If old Commodore was around it is not totally impossible it would
+be something inline with my creation...
+
+The build might not be all done, I have a slim DVD I'm thinking of
+attaching under the case between the 2 front legs and put a CD32
+sticker on it so I can do real emulation of the mighty Commodore
+Amiga CD32 ...
+
+I'm using CachyOS since in my experience it feels less hassle and
+much more things works "out of the box" and I have the option to
+even very easy add own menu, I'm thing like a boot selector for
+different Amiga machines ... but this is not that necessary cause
+often this type of solutions only makes things more difficult.
+
+I'm not hiding the emulation, aim is not that either. I'm just 
+looking for a alround perfomance computer that I can do the stuff
+I want.
+
+SysInfo has a score above 400MIPS with no JIT
+This helps alot on all the things I'm doing, coding, painting 
+and even some games/demos benefit from it.
+
+
+
+
+Technical not that "Amiga" relevant stuff
+
+So the box cost about euro 2000
+
+
+So what do I have in it?
+
+This is far from any super machine but absolutely a nice box
+
+Motherboard PCI-Express 5
+Intel 250k Plus CPU
+AMD RX 9070 16GB GPU
+16GB DDR5 RAM
+2TB NVMe Gen 5 Disk
+
+I have put some time to find the performance value/heat output
+I value silence, I did not pick XT version of RX 9070 because it
+performs like 10% more but uses 100+ Watts more power, more
+power = more fan noice
+
+I just wish this computer was from Commodore and it was a real
+Amiga system, but I think this is the next best thing when value
+is considered !
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "GAMES" "My toughts on ported games !"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+You found something  hidden ;)
+
+
+
+
+I've seen some putting in BIG efforts on porting games for the
+Amiga, my tought on this doesn't compute ;)
+
+You can play this games already and if they cost something then
+they are probably cheaper on PC and performs alot better and you
+can play them right away.
+
+Why not put efforts on a Amiga exclusive games instead ?!
+
+Now don't get me wrong, all new games are a blessing for the Amiga 
+even the ported ones !
+
+
+
+
+Remeber Defenders of the Crown ?
+
+@{IMG "GUIDEDIR:files/dotcA.png"}
+
+This remake is coming next month, not for the Amiga :(
+It even has classic mode that preservs the graphics
+
+@{IMG "GUIDEDIR:files/dotcR.png"}
+
+
+
+
+
+There are many nice ports of old Amiga games for PC, sometimes
+they have more functions on them, good old Gloom has a PC 
+version called ZGloom, it has all 3 Gloom games and better
+renderer with post-processing. It's actually very fun to play
+the game again.
+
+@{IMG "GUIDEDIR:files/zgloom.png"}
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT}
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080  
+
+      If you like what you see, want me continue doing this crazy thing
+      you can support me directly by PayPal link found at 8080.itch.io
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
