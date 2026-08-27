@@ -1,0 +1,517 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0011 27.08.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/castlemaster.mod"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+            (Castle Master - music by Matt Furniss/Domark - 1990)
+
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to eleventh issue of 32se onliner! ;)@{fg text}
+      
+@{JCENTER}
+              ,                                        
+     _,-'@{"*" LINK "Amiga"}   /|   .    .    /`.                        
+ _,-'     *_/_|_  |*   |`. /   `._,--===--.__          
+^       _/"/  " * : *__|_ /.   ,'    :.  :. .`-._     
+       // ^   /7 t'""    "`-._/ ,'*   :   :  :  .`.   
+       Y      L/ )@{"*" LINK "A500"}         ]],'   @{"*" LINK "AB"}  :   :  :   : `. 
+       |        /  `.n_n_n,','\_    * ;   ;  ;   ;  _>
+       |__    ,'     |  *`-'    `-.__*_______.==---'  
+      //  `""**      |   *            *               
+      @{"*" LINK "C77"}|     |/      /    *            *              
+                    /     |             `.            
+                   /      |               ^           
+                  ^       |                           
+Stef                       ^                          
+
+ 
+
+                     
+
+
+
+Crush that ant fast! ;)
+
+Yeah another issue with fun for your Amiga and my crazy DIY stuff,
+we have a nice track and good ASCII art that matches this issues
+game ! 
+  
+@{JLEFT}
+
+
+
+
+             
+                               LET'S DO IT !!! 
+  
+                                             
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*
+@{FG text}
+
+
+@{IMG "GUIDEDIR:files/it_came_from_the_desert.png"}
+
+Released 1989 by Cinemaware
+
+The player assumes the role of Dr. Greg Bradley who comes 
+to remote Lizard Breath, California on June 1, 1951. 
+As a geologist, he wants to study a recent site of a meteor 
+crash somewhere in the desert south-west of the small town. 
+
+Early in the game, he learns that the radiation of the 
+meteor has enlarged a local ant population to an enormous 
+size. However, few take his observations seriously. Worried,
+that the ants will soon mate and spread, he must work 
+against a ticking clock and devise a plan to stop the ants 
+from terrorizing the world. In order to succeed, the player 
+must visit many locations ranging from mines, farms, a pub, 
+an airfield, a local radio station and many more to find 
+evidence of the ants, then convince townsfolk and 
+authorities of impending doom. At the same time the player 
+must contain the ant infestation.
+
+
+In god old days, I did spend some time with this game and
+it was really something different and this types of games
+was more rare and quality of this one is top notch !
+
+
+@{" Download " SYSTEM "c:execute game"}
+
+It's downloading the file, about 1,6MB
+You find it in RAM Disk, DL link might be gone!
+
+Game runs in WHDL
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+
+                                         
+   
+    
+                                        Until next time. . . . .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                        /8080 ..
+
+
+
+ps. ASCII ant hides several links!
+@endnode 
+
+
+
+
+     
+         
+@node "A500" "My new pet !"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+You found a hidden gem ;)
+
+
+
+
+Part II "NEW Amiga 500"
+
+
+My aim is one computer for all and it's a mATX build and in
+a simple way to bring more Amiga feeling to it.
+
+
+@{IMG "GUIDEDIR:files/640-1.jpeg"}
+(sorry for the all crap around my desk ha ha ha)
+
+
+Last time I put some stickers to make it more a Amiga and less
+whatever it was before ;)
+
+
+@{IMG "GUIDEDIR:files/640-2.jpeg"}
+
+The build is still work in progress, I'm still debating on the
+slim DVD attached under the case between the 2 front legs and 
+put a CD32 sticker on it so I can do real emulation of the 
+mighty Commodore Amiga CD32 ...
+
+Now this time I have added 2 DB9 joystick ports, games on Amiga
+should be played with a joystick, it feels wrong with a gamepad
+on many games, I remeber on my CD32 I had back in the 90s I had
+to plug my Tac 2 for some games if not most of them because the
+pad was not that great. 
+
+
+@{IMG "GUIDEDIR:files/2joyadapter.png"}
+
+
+I bought a USB-C joystick adapter way ago and at that time I was
+aiming at a Mac mini build that felt just impossible to make a
+nice build off so I trashed the idea for atleast a year ago.
+
+
+@{IMG "GUIDEDIR:files/alinea.png"}
+
+
+I bought it from Alinea, there is a ready internal version but 
+I'm not to throw out money because of this so I stick to what I 
+have, the external USB-C version.
+
+
+@{IMG "GUIDEDIR:files/500-1.jpeg"}
+
+
+2 Commodore joystick ports ;)
+
+
+
+@{IMG "GUIDEDIR:files/500-4.jpeg"}
+
+
+It would look alot better with a internal version ...
+
+
+
+@{IMG "GUIDEDIR:files/500-2.jpeg"}
+@{IMG "GUIDEDIR:files/500-3.jpeg"}
+
+
+Not the greatest joystick but it works!
+This is a replica of the classic Atari joystick that was crap,
+it had thin plastick cross that easily broke if you where
+too hard pushing it on directions.
+
+This has a more robust if not too robust construction with
+microswitches, I hate that clicky noice otherwise a very nice
+joystick, It's like the crap that comes nowdays with THE64,
+It's so annoying noice, it removes the pleasure of gaming.
+Maybe I can replace the switches with silent one if there is
+such microswitches to buy.
+
+
+This is it ... now I'm to enjoy my A500 a bit and think about 
+the DVD unit and do some testing if it's even worth having
+one mounted ... maybe there will be a part III in future
+
+
+I have one final tought on the PC build itself, I'm surprised
+on the noice level, it never above slighty fan breeze at max.
+Something like 27db at Amiga emulation to less than 40db in 
+AAA PC games. It's very quiet that's what I'm trying to
+explain, maybe the fan blades itself is next level ??
+It has to be quiet in the room before I notice theres actually
+a fan spinning ... This is ofcource my luck to have bought
+quality stuff ;)
+
+
+Thanks for reading hope my build gives you some great ideas!
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "AB" "Alien Breed 35th Anniversary Collection"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/ab.jpg"}
+
+THE BREED IS BACK! Celebrate 35 years of Alien Breed with the 
+definitive collection.
+ 
+Featuring 6 classic games, interactive archives, modern 
+controls, visual enhancements, co-op multiplayer, Online 
+Rush Mode and Horde Mode, bringing the complete sci-fi 
+horror legacy back to your screens.
+
+This collection won't run on any Amiga, it's for modern
+platforms like consoles, PCs.
+
+Yeahh this can't be missed out, this is alot of fun ;)
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "Amiga" "Amiga Corporation"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/newAmiga_logo-sm.jpeg"}
+
+Out-of-court settlement between Amiga and Hyperion
+Amiga Corporation announces completion of its own RTG system
+Also the Amiga logo has been updated, looks really good!
+
+
+@{IMG "GUIDEDIR:files/thea1200sm.jpg"}
+
+Retro Games Ltd., Amiga's most important licensee at present, 
+the THEA1200, would also support RTG.
+Notice the changes on the box where Amiga logo is now included!
+
+
+For the first time, Hyperion is also being granted an explicit 
+license to distribute AmigaOS 3.2 as well as the yet-to-be-released 
+AmigaOS 3.3 - however, this license expires on December 31, 2027, 
+after which Hyperion must withdraw from the 68k market.
+
+Sometime 2028
+I'm sure Mike (Amiga) already working on a plan for the Amiga,
+there is some plans for the next AmigaOS maybe v3.28 ?? (Year 28),
+this is to make it clear on the latest AmigaOS version, I think
+this idea is great, I hope this is the way Mike goes for.
+
+
+Now I have included new about Commodore 77, not Amiga related but
+Mike has been/is in talks with Christian (Commodore) and I think
+we are going to see something Amiga related in future from
+Commodore. It would be awesome with a Commodore Amiga A77 ;)
+
+
+@{IMG "GUIDEDIR:files/a77-sm.png"}
+A.I mockup !
+
+Now I have to speculate a bit, I think a pure FPGA doesn't cut it,
+just like C77 goes for crazy 77MHz and this is 77x original C64.
+On Amiga you would not get this increase with a FPGA, we want 77x
+68060 50MHz (best CPU at time) so I'm thinking like do AGA with
+68EC020 where CPU part can be switched over to ARM that does CPU
+emulation, beside this optional CPU.. ARM should handle WIFI, BT
++ other usefull things that are not available or too expensive/
+time consuming to develop in a FPGA or other specific chips.
+
+Time will tell what we get!
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "C77" "Commodore 77"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/Commodore-77-sm.jpg"}
+Play music @{"CyberPunk 2077 24-channel SID" SYSTEM "play16 Q files/c77.wav" STRICT}
+
+@{JLEFT}
+  Commodore 77
+  ____________
+
+  The rain falls. Neon burns through the darkness.
+  Somewhere beyond the reach of the corps, a
+  Commodore 77 boots to life. Inspired by the world of 
+  Cyberpunk 2077® and built on the legendary 
+  Commodore 64 Ultimate retro computer - for 10,000+ 
+  retro games, BASIC coding, and distraction-free writing
+  
+  - it features an exclusive Seocho Electronics edition 
+  exterior design inspired by one of the most recognizable 
+  manufacturers in Night City.
+
+  Made for those who refuse to hand every file 
+  and function to the corps, it delivers authentic FPGA-
+  powered computing without corporate control, endless 
+  feeds, or algorithmic distractions. Just the freedom to 
+  write, code, play, and create on your own terms - all at 
+  up to 77MHz processing speed.
+
+  In a city where connection is the trap, the Commodore 
+  77 proves that sometimes the safest place for your data 
+  is right where you left it. 
+
+  The Commodore 77 collectible special edition includes:
+
+  · 'Shard' cartridge holding an exclusive 8-Bit 'demo'
+    Cyberpunk experience, from Commodore x Arise 
+    Designs, with 24-channel stereo SID music by LukHash
+  
+  · Upgraded AMD Artix 7 XC7A100T processor for 
+    77MHz top speed
+
+  · Themed spiral bound user guide with 
+    Cyberpunk 2077 inspired type-in BASIC programs
+    + lore
+
+  · Exclusive Commodore x Cyberpunk 2077 enamel 
+    pins + stickers
+
+  · Extra-long HDMI cable to jack in with
+
+  · World power adapter (compatible with Night City)
+
+
+
+  
+@{JCENTER}
+Ohhh my god this is so nice I wish Amiga got this attention
+to details. Should I add one anyway to my collection ? ;)
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT} 
+      
+      Also you can leave comments at my 32seonliner page at itch.io
+      
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080 
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode

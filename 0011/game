@@ -1,0 +1,12 @@
+; 
+;   $VER: 1.0 2026 Sami Vehmaa
+;
+
+Failat 21
+c:aget TIMEOUTSECONDS=10 QUIET https://www.whdownload.com/games/I/ItCameFromTheDesert_v2.0_0014.lha RAM:
+IF WARN 
+    Echo ""
+    Echo "Server seems to be down, Please try later!"
+endif
+  
+  
