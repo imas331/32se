@@ -1,8 +1,0 @@
-; 
-;   $VER: 1.0 2026 Sami Vehmaa
-;
-
-assign ttt: ""
-copy ttt:files/32seonliner9.lzx ram:
-  
-  
