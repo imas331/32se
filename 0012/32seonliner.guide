@@ -1,0 +1,450 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0012 09.10.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/total_recall.mod"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+              (Total Recall - module by David Whittaker - 1990)
+
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to twelfth issue of 32se onliner! ;)@{fg text}
+@{JCENTER}
+  ####     ####    #   @{"#" LINK "WADE"} 
+ #        #    #   #  #  
+ #        #    #   # #   
+ @{"#" LINK "A500"}####     ##@{"#" LINK "LUPUS"}#    ##    
+ #    #   #    #   # #   
+ #    #   #    #   #  #  
+ #    #   #    #   #   # 
+  #@{"#" LINK "3DFX"}##     ####    @{"#" LINK "A1200"}    #
+  
+ 4ever!
+
+We see BIG movements in the Amiga community, hopefully we even get
+alot of new(old) users back to the Amiga eco system, I think the
+very low cost Amiga THE A1200 is a brilliant move...
+
+I can't remember when we last had such fresh air blowing in the
+hardware front...
+           
+           
+LET'S DO IT !!!
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@{JCENTER}@{FG shine}
+*** ***
+*********
+*********
+*******
+*****
+*@{FG text}
+                                        Until next time. . . . .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                               .
+                                                        /8080 ..
+ps. ASCII "art" hides several links!
+@endnode 
+
+
+
+
+
+@node "LUPUS" "LUPUS ANIMUS"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/lupus.png"}
+@{IMG "GUIDEDIR:files/lupustx.png"}
+
+@{" Unpack " SYSTEM "c:execute demo"}
+
+Lupus Animus is a 3D demo created by Mystic, Tristar, 
+and Red Sector Inc. (TRSI), which won 2nd place in the 
+Amiga Demo Competition at Xenium 2026 
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+@endnode     
+       
+       
+       
+         
+@node "A1200" "Retro Games THE A1200"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+You found a hidden gem ;)
+
+
+
+@{IMG "GUIDEDIR:files/12.jpg"}
+
+For the first time in many years we are getting a complete
+new Amiga, sort of. It is emulation but it's really optimized
+emulation! Latency is under 60ms for video and audio, 
+typical RPI is 120ms and extreme low input latency,
+this is achived with custom hardware, simply put the best.
+
+Sysinfo around 260MIPS, Chris Smith says on a 68040
+configuration you get about 60MHz depending on the load/application.
+
+There is atleast one RTG game in the 25 game carousel.
+There is also RESHOOT 3 ;)
+
+I just wish they (Retro Games) would add a system where users
+could add games/etc. to the carousel itself, it would be a
+killer feature ! One can always dream...
+
+This is a BIG deal, suddenly we have a cheap Amiga that
+will sell in BIG numbers, everyone can get one and it's
+complete (almost, no PSU). 
+
+No hunting for most of us for a secondhand old A1200 that
+requires even more money before it's usable and still it
+be hard to get RTG/Chipset working seamless.
+
+And it's budget friendly, this means many many more users!
+
+
+
+@{IMG "GUIDEDIR:files/2.png"}
+
+Front case and stickers, sorry for the quality, cut from
+Retro Games latest video clip.
+
+
+
+@{IMG "GUIDEDIR:files/3.png"}
+
+Power LED green ;) and it's in action!
+
+
+@{IMG "GUIDEDIR:files/4.png"}
+
+I do not have a better picture of the board, but compared
+to bellow THE A500 board you see it's not the same.
+The new board has 4 USB on back and a internal.
+
+
+@{IMG "GUIDEDIR:files/5.jpg"}@{IMG "GUIDEDIR:files/16.png"}
+
+
+
+It even has the 3 LEDs board ;)
+
+@{IMG "GUIDEDIR:files/7.png"}@{IMG "GUIDEDIR:files/8.png"}
+
+
+
+It has pre-installed Worbench 3.1 with RTG 1280x720
+This is a BIG deal, I think many more nice games will be
+done thanks to having RTG out of the box.
+
+So to use Workbench you need to plug in a USB stick, it
+then copies it from internal flash to USB stick 
+Workbench and Work (.HDF files), and runs from there and 
+this allows you to customize it and you can have several 
+USB sticks and switch Workbench setup ;) and even bring 
+your own Workbench.
+
+Since it's your own stick you can have the size you want
+and not be limited! and also run the stick on a PC/Mac
+with a emulator.
+
+Workbench also have special application to control 
+hardware like floppy disk, CD, CPU speed, Scaling, Eject
+USB stick (running Workbench and you plug a USB stick it
+appears on desktop).
+PPaint is pre-installed.
+
+I'm going todo a 32se setup when I get my hands on this
+lovely machine, it be like in the 90s and my USB stick
+is then going to be mounted on the internal USB port. 
+
+I've been looking for info about the emulation, a video 
+from gamescom by Scene World Magazine it looked like 8MB 
+chip and 32MB fast is the maximum, but hunting some info 
+it looks like you can even have your own AmiBerry config 
+file on a USB stick and you can do more with the settings 
+like 128/256MB fast RAM, I really hope this is true, 
+information I found was in-official.
+
+THE A500 board had 512MB RAM, A1200 probably has 1/2GB
+
+@{IMG "GUIDEDIR:files/15.jpg"}
+Workbench running in 1280x720
+
+@{IMG "GUIDEDIR:files/9.png"}
+
+
+@{IMG "GUIDEDIR:files/10.png"}
+Retro Games video clip concludes with a truck fully loaded
+with THE A1200 machines ;) holy moly ! ! !
+
+Should I order one more !? ;)
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "3DFX" "Amiga MiSTer 3dfx"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/amiga-corporation-2026mister3dfx.png"}
+
+BigMig for MiSTer
+
+A Big Box Amiga for the MiSTer board: the Minimig chipset in the
+FPGA fabric, driven by a 68k that is not in the fabric at all.
+
+BigMig replaces the in-fabric soft CPU with Emu68-A9, an ARMv7
+just-in-time recompiler running bare-metal on the second ARM core
+of the DE10-Nano's HPS. The Amiga custom chips - Agnus, Denise,
+Paula, Gary, the CIAs - are the same cycle-accurate Minimig logic
+they have always been. Only processor moved.
+
+Having half the FPGA unused is not an option anymore. Now doing
+the latest tests of BigMig 3Dx2.
+
+3Dx2 is a dual pipeline GPU with 2 texture units implemented in 
+the FPGA fabric that does the same calculations than a Voodoo 3
+(announces as such) and comes with its own Warp3D and MiniGL libs.
+
+Lu's Retro Extras (YouTube) has impressive demo of it running 
+Quake and its really fluid and fast!
+
+
+
+Maybe buy a second THE A1200 and put one in it or some clever
+switch since there are alot of room left for a MiSTer.
+
+However MiSTer is not cheap these days and is a board(s)<>box
+
+
+Amigas FUTURE is really BRIGHT !!!!!
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "A500" "THE A500 mini"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/a500minipj.jpg"}
+
+I bought THE A500 mini when it was released and sold it within
+weeks after the purchase, I'm not BIG fan of the carousel
+system and been mini with no functional keys and no Workbench
+and most letdown when you can't add anything to the carousel.
+
+The last drop was when I tried to game with it, gamepad was
+really bad and hard to configure own gamepad and in 2 player
+mode it was such hassle(gamepad issues) I got rid of it.
+
+I do see many looking for better cheap hardware for it ;)
+
+Tang Nano 20K cheap FPGA board ! Looks like developent is
+going forward, it even run AGA games.
+
+Does all chipsets, max 2MB chip, 4MB fast RAM. You can
+configure slowmem 1.5MB as well.
+
+There is developent going on to maybe be able to have 5.5MB
+fastmem if slowmem option is 0
+
+Some Turbo options and video output mode PAL/NTSC
+
+This is a very cheap FPGA solution about $40
+
+
+Its crazy that this small board is more advanced than a stock
+A1200 board...
+ 
+See it running on MediaGamesRetroNerdstuff (YouTube)
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+@node "WADE" "Innocence Slideshow 95%"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/ss.png"}
+@{" Unpack " SYSTEM "c:execute wade"}
+
+.__________ _____ /\___ __ oOOOo ______
+|  ___)__  |  _  |  ___(__OO' `OO\     |
+|  __|/    |  |__|  |  |  OO   OO|  _  |
+|  | /  l  |  |  |  |  |  OO. .OO|  |  |
+|__| \_____|_____l_____|__`OOOOO'|__|__|
+[---- ---- ----- ----- ------ ------[©L]
+|         Innocence Slideshow 95%      |
+|  Enjoy Wade's brilliant pixel art!   |
+|            READ THE .NFO!            |
+`-[11-Sep-2k]------------------[sTYLe]-'
+
+
+This is what AGA is capable off ;)
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT} 
+      
+      Also you can leave comments at my 32seonliner page at itch.io
+      
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080 
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  When a new issue is online, old is gone!
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  HiP, Play16 and Lha needs to be in path eg. in c: and WHDL installed
+  if your not running this on AmigaOS 32se
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode
