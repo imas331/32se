@@ -1,0 +1,793 @@
+@database onlinerguide
+@$VER: onliner.guide 1.0 (1.12.2025) English
+@FONT "topaz.font" "11"
+
+@node "MAIN" "Welcome to 32se onliner!"
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+  ------------------------------------------------------------------------
+  0013 23.10.2026  @{fg shine}32se onliner !@{fg text}                    Tracker Music @{"on" SYSTEM "hip files/halloween.med"} @{"off" SYSTEM "hip quit"}
+  ------------------------------------------------------------------------
+                  (Halloween - module by Room 237 - 1994)
+
+  @{" Thanks! " LINK "TFR"}                                                       @{" Tips! " LINK "NIT"}
+                
+                @{fg shine}Welcome to thirteenth issue of 32se onliner! ;)@{fg text}
+
+       ___                                             \\--/
+     .'   `"-._                                     /`-'  '-`\\
+    / ,        `'-_.-.                             /          \\
+   / /`'.       ,' _  |                           /.'|/\\  /\\|'.\\
+  `-'    `-.  ,' ,'\\\\/                                  \\/
+            \\, ,'  ee`-.         
+            / ./  ,(_   \\      ,     
+           (_/\\\\\\ \\__|`--'     ||
+           ///\\\\|     \\        ||
+           ////||-./`-.}    .--||       
+              /     `-.__.-`_.-.|        H A P P Y  H A L L O W E E N   
+              |      '._,-'`|___}    `;
+              /   '.        |/ || ,;'`
+              |     '.__,.-`   || ':,      I've done some cooking ;)  
+              |       |        || ,;'      
+              /       /     _,.||oOoO.,_
+             |        |     \\-.O,o_O..-/
+            /         /     /          \\   
+           |         /     /            \\  
+           |         |    |      ,       |
+           /         |    \\   ) (     )  /   
+     jgs  |           \\   ,'.(:, ),: (_.'.   
+         /            /'.' ="`""="="=="= '.
+        `'"---'-.__.'"""`    ` "" "" `""
+      
+
+                            @{"  " LINK "A500"} Amiga 500 Part III
+                            @{"  " LINK "AT97"} AmiTech97 ;)
+                            @{"  " LINK "FPGA"} FPGA emulation?
+                            @{"  " LINK "THEM"} 32se Themes
+                            @{"  " LINK "RAMB"} me rambling...
+                            @{"  " LINK "HALL"} Halloween special
+@{JCENTER}
+
+                     
+LET'S DO IT !!!
+@{JCENTER}@{IMG "GUIDEDIR:files/amigaicon.png"}@{" SCREAM WITH ME: Amigaaaaaaa! " SYSTEM "play16 files/amigaaaaaa2.wav"}
+@{JLEFT}    
+    SIDENOTE:
+    This is just my opiniums my feelings, you absolutely do not need to
+    agree in anything and 32se onliner is not a news mag and be kind ;)
+@{JCENTER}
+@endnode 
+
+
+@node "HALL" "32se Themes"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+
+@{JLEFT}
+
+                             ___
+                            /  /|
+                           /  / /
+                          /  / /
+                    _..---|  |-..._
+                  .'      |  |     '.            
+                 /        |  |       \\          
+                |   /\\           /\\   |        HAPPY
+                |  /__\\  ____   /__\\  |        
+                |        \\  /         |      HALLOWEEN
+                 \\        \\/         /
+                  \\   \\________/    /
+                   '.   \\____/    .'
+                     '-.........-'
+      
+@{JCENTER} 
+
+
+I'm not to select a Halloween game for you, instead I'm pointing you
+to Amiga Halloween Vault, my own game Halloween X is in that list ;)
+
+
+
+@{IMG "GUIDEDIR:files/halloweeny.iff"}
+https://amigachristmastree.ultimateamiga.com/Halloween.html
+
+@{" Open with iBrowse " SYSTEM "apps:internet/ibrowse/ibrowse https://amigachristmastree.ultimateamiga.com/Halloween.html"}
+
+
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+.
+
+.
+
+.
+
+@{IMG "GUIDEDIR:files/spookytown.jpg"}
+
+     platform : Amiga OCS/ECS
+         type : demo demo    
+ release date : august 2026  
+release party : Xenium 2026  
+        compo : amiga demo   
+       ranked : 1st          
+
+@{" Unpack " SYSTEM "c:execute demo2"}
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+     
+@endnode       
+      
+
+@node "RAMB" "32se Themes"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{JLEFT}  
+       ____   ____    ___   _____  ____    _    ____ _  _______ ____  
+      |  _ \\ |  _ \\  / _ \\ |_   _||  _ \\  / \\  / ___| |/ / ____|  _ \\ 
+      | |_) || |_) || | | |  | |  | |_) |/ _ \\| |   | ' /|  _| | |_) |
+      |  __/ |  _ < | |_| |  | |  |  _ </ ___ \\ |___| . \\| |___|  _ < 
+      |_|    |_| \\_\\ \\___/   |_|  |_| \\_\\_/   \\_\\____|_|\\_\\_____|_| \\_\\
+
+@{JCENTER}
+
+Back in the days I did listen very much music on Amiga
+Some modules where timeless, atleast you remember them
+for some reason ;) Here are 2 good examples ha ha ha  
+
+
+           Robotron.2 @{" Play " SYSTEM "hip files/mod.robotron.2"} 
+Explicit   Lesbos     @{" Play " SYSTEM "hip files/mod.lesbos"} 
+                     @{" Quit " SYSTEM "hip quit"}
+                      
+Last song is in Swedish, I'm sure you can use AI translate
+and end up with a male doing the vocals ha ha ha          
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT} 
+                           _    __  __ ___ ____    _     
+                          / \\  |  \\/  |_ _/ ___|  / \\    
+                         / _ \\ | |\\/| || | |  _  / _ \\   
+                        / ___ \\| |  | || | |_| |/ ___ \\  
+                       /_/   \\_\\_|  |_|___\\____/_/   \\_\\ 
+                                       
+                        A   M   I   G   A      5   0   0
+
+@{JCENTER}
+My first Amiga was a A500 in 1988, I remember it cost
+about 4.4 times the monthly rent, it was definitely  
+not cheap in any means but it had power like nothing 
+else                                                 
+
+I had really fun with it and my aim is to have that  
+replicated with my "A500" build                      
+
+I owned A500, A600, A1200, A4000, A4000T, A1200      
+                     |                |              
+                     ------ CD32 ------              
+
+The last A1200 was the Escom one and sold it 2007
+
+Recent years...
+
+mini Walker, THEA500 Mini, A600GS, Apollo V4    
+
+and... only mini Walker is still in my collection
+
+Soon I will have a new one, THE A1200 and it will all
+be fun again, aesthetics is very important thing     
+
+I also have my A1200.net case with a A500 keyboard in
+it and thats how far it has come, everything is so   
+expensive, now that BigMig is in development and it  
+feels appealing, fast 68k with 3D maybe put that one 
+in the A1200 case ;)                                 
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+@endnode
+
+
+
+@node "THEM" "32se Themes"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+
+
+Themes for 32se, optimized for 1280x720 it will
+run on other resolutions as well, I'm thinking
+for the forthcoming Amiga THE A1200 ;)
+Makes it boot faster since it does not need to scale
+the backdrop and themes are streamlined to use less
+system resources !
+
+
+@{IMG "GUIDEDIR:files/wf.png"}
+Wolfenstein Theme!
+
+@{" Move to RAM: " SYSTEM "c:execute movetheme"}
+
+Use Themes/Theme Import/Export from 32se dropdown WB menu
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+@{IMG "GUIDEDIR:files/hvii.png"}
+HalloweenVII Theme! 
+
+@{" Move to RAM: " SYSTEM "c:execute movetheme2"}
+
+Use Themes/Theme Import/Export from 32se dropdown WB menu
+
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+@endnode 
+
+
+
+
+@node "FPGA" "FPGA emulation?"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+Short answer is NO, FPGA is not emulation
+
+Bear with me, I'm not a PRO !
+@{JLEFT}
+               I've seen a bit everywhere even in Amiga mags
+               that writer claims FPGA is emulation... WTF
+               Even some claims FPGA runs on Linux...
+               How can anybody write about a subject without 
+               atleast some small knowledge?!...
+
+               In computing, emulation is the process where one
+               computer system (the host) mimics the hardware or
+               software behavior of another system (the guest)
+
+               FPGA-based hardware recreation is a method of using
+               a Field-Programmable Gate Array (FPGA) chip to
+               physically reconfigure its internal logic blocks
+               and wiring to mimic the hardware architecture of
+               another electronic system
+          
+               So it's not emulation, what is it? It's hardware
+               just like any chip in your Amiga, if it's done
+               right it can replicate a chip with 100% accuracy
+          
+          
+               If you look at MiSTer FPGA, it has Linux(ARM cores)
+               and it's used to select computer model to run 
+               Loads the FPGA with selected core, Linux does not 
+               run the recreated computer model. Lately this seems
+               to change a bit, new systems like new BigMig Amiga
+               core with 3DX2 takes out the 68k CPU from the FPGA
+               and replaces it with 3DX2 core and 68k is instead
+               emulated on the second ARM core, bare metal no 
+               Linux.
+
+               The 3D card follows the same split. A 3D engine in 
+               the firmware, on the ARM, takes a program's 
+               triangles, clips them and sorts them into bands of
+               the screen. In the FPGA, two render units (the "x2")
+               each pair a triangle-setup unit written for BigMig
+               with a pixel pipeline
+
+               I suspect 68k needs to be fast for 3DX2 is to be
+               usefull. It's same rule in PC world, you pair
+               CPU/GPU for best performance or you end up with a
+               lipstick on a pig ;)
+
+               MiSTer's FPGA is very versatile since it also has a
+               ARM cores in it, Apollo Vampire V4 has a similair 
+               FPGA but does not contain a ARM core
+
+@{JCENTER}
+
+
+
+
+I'll try explaining FPGA in a easy way as I can...
+
+@{IMG "GUIDEDIR:files/and4.gif"}
+This is a AND gate
+
+@{IMG "GUIDEDIR:files/or4.gif"}
+OR gate
+
+@{IMG "GUIDEDIR:files/nand4.gif"}
+NAND gate
+
+@{IMG "GUIDEDIR:files/nor5.gif"}
+NOR gate
+ 
+@{JLEFT} 
+               What I'm showing you is the very basic function in
+               a chip, different gates when connected together in
+               a massive layout gives you the desired funtion of
+               a chip like AGA Lisa, 20000 gates / 80000 transistors
+               
+               Above gates the basic ones has 2 transistors per gate
+               
+                               let's keep it simple
+
+
+ 
+@{JCENTER}@{IMG "GUIDEDIR:files/brfov.jpg"}
+This is a basic function in a FPGA, called LUT,
+look-up table (there are many more other types)
+@{JLEFT} 
+
+          The LUT is actually a small SRAM memory 40 transistors
+
+          Instead of calculating the logic using physical gates,
+          a LUT looks up the answer in a tiny, programmable truth
+          table memory array
+
+          If the FPGA software flashes 0, 0, 0, 1 into that LUT's 
+          memory, it behaves exactly like an AND gate.
+
+          If it flashes 0, 1, 1, 1, the exact same hardware instantly
+          becomes an OR gate.
+
+          You see a 40 transistor LUT does a 2 transistors job, but
+          it's veratile and this is the cost
+          
+          When you write hardware description code (Verilog/VHDL) to 
+          replicate a chip, you don't manually choose which LUT 
+          connects to which wire.
+
+          Instead, you write a Timing Constraint file (SDC or XDC).
+          You tell the compiler: "My system clock is exactly 100 MHz."
+          The compiler's Static Timing Analysis (STA) tool then goes 
+          to work during compilation:
+
+          1. It calculates the exact nanosecond delay of every chosen
+             routing path and LUT.
+   
+          2. It ensures Setup Time is met: The data arrives at the 
+             destination early enough
+
+          3. It ensures Hold Time is met: The data stays stable long
+             enough
+
+          4. If a path is too slow, the Place & Route engine physically
+             rips up the wires and moves the LUTs closer together until
+             the timing requirement is mathematically proven to pass.
+
+
+          Conclusion
+               
+          You flash a FPGA with a "layout" bitstream.
+               
+          Switch power on the FPGA clears all SRAM cells and pulls the
+          bitstream out of the Flash chip
+               
+          As those millions of 1s and 0s stream into the FPGA, they fill
+          up thousands of internal configuration memory cells. 
+               
+          Once the entire bitstream is safely loaded and verified, the
+          FPGA becomes active
+
+
+          
+
+                            I tried to keep it simple
+
+
+
+
+
+          
+          
+          Now you wonder can FPGA replicate anything? no FPGAs are slow
+          in comparison to a modern CPU/GPU and the amount of gates 
+          needed for that.
+          
+          FPGA suites best for low clock and not too big "layouts"
+          Expensive High-end modern FPGA can in theory hit 800-900 MHz
+
+
+                  I hope it was not too deep and maybe it shed
+                  some light into your knowledge pool ;)
+                  
+                  
+                      Sorry if there is any fact errors !
+
+
+
+@{JCENTER}
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+
+@endnode     
+       
+       
+
+
+@node "A500" "Amiga 500 Part III"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+Part III "NEW Amiga 500"
+
+@{IMG "GUIDEDIR:files/500-2.jpeg"}
+My aim is one computer for all and it's a mATX build and in
+a simple way to bring more Amiga feeling to it.
+
+To be clear, this is my "PC" running Linux CachyOS with FS-UAE
+
+
+The 3D stuff around Raspberry Pi, PiStorm3D got my interest..
+
+Can I have it on my custom A500 build?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+HELL YEAH !!!!
+
+.
+
+.
+@{JLEFT}
+                         ____   _____  _____ __  __ 
+                        |___ \\ |  __ \\|  ___|\\ \\/ / 
+                          __) || |  | | |_    \\  /  
+                         |__ < | |  | |  _|   /  \\  
+                         ___) || |__| | |    /_/\\_\\ 
+                        |____/ |_____/|_| or whatever 
+
+@{JCENTER}
+QuarkTexNG gives WinUAE 3D acceleration, but I'm using FS-UAE
+
+I noticed that JIT is not enabled on the build and no 80bit math
+So I recompiled one with these 2 features set...
+
+Aminet/QuarkTexNG.lha, I took Warp3D, agl, minigl library files
+and put them in AmigaOS Libs: folder
+
+FS-UAE also needs a .so plugin for direct 3D gfx access...
+I recompiled WinUAE version for FS-UAE ;) so full name is
+quarktexng-linux-x86-64.so and put this to plugin folder of FS-UAE
+
+Now we are almost there....
+
+FS-UAE launcher
+
+click the cog icon (1th tab) where you can add custom settings, 
+add following...
+
+uae_compfpu = 1        
+uae_cpu060_revision = 6
+uae_fpu_softfloat = 0  
+uae_native_code = 1    
+use_cachesize = 8192   
+
+close Custom Configuration window
+
+5th tab
+
+Zorro III Fast Memory, I have 512 MB. I think minimum 128 MB
+Graphics Card RAM: 64 MB
+
+Last tab
+
+CPU 68060-NOMMU
+JIT Compiler enabled
+
+
+This is important setting for performance, ofcource you need
+UAEGFX etc. enabled but I think your not new to this stuff!
+
+
+
+
+
+SYSINFO, it shows there is some potential speed in the system.
+
+@{IMG "GUIDEDIR:files/a3d1.png"}
+
+
+I ran the minigl gear test from Aminet/MiniGL_Library_Classic.lha
+DO NOT USE THE minigl.library IN THIS ARCHIVE
+
+When I took the screenshot it missed the fps numbers,
+it was so fast, about 1040fps ;)
+
+@{IMG "GUIDEDIR:files/a3d2.png"}
+
+
+And now a game test ;)
+
+.
+
+.
+
+.
+
+.
+
+OpenLara MiniGL for AmigaOS 3 by Arcziii
+
+https://arcziii.itch.io/tomb-raider, DL both files
+
+In OpenLara-MiniGL folder put audio-adp4 folder with files
+Then grab PC version of Tomb Raider (1) and copy the Data folder
+and put it in OpenLara-MiniGL folder.
+
+You can edit OpenLara icon and change resolution and fullscreen mode
+
+@{IMG "GUIDEDIR:files/tr1.png"}
+
+Game running in 1920x1080 Fullscreen setting around 48-49fps !
+
+
+
+
+
+@{" Show zip archive " SYSTEM "c:execute 3d"}
+
+It contains all the files you need + MiniGL_Library_Classic so you
+can run the demos files(4) and see you got the system working ;)
+
+You might wan't to check Aminet if there is never files before 
+jumping into it, also the .so plugin might not work with never
+version of QuarkTexNG
+
+fs-uae.jit or fs-uae.3d, rename and copy to /usr/bin in Linux
+
+fs-uae.3d   this one is for the 3D & JIT                              
+fs-uae.jit  this only enables jit feature, no 80bit match if you don't
+care about 3D and still want the JIT feature                          
+
+
+
+
+
+I'm no PRO at this stuff, research and patience and plenty of 6-packs ;)
+
+
+
+
+
+I did another game test Doom 64 EX+ from https://arcziii.itch.io/doom64
+
+Also in 1920x1080, run smooth no lag. I don't know if there is a way to
+get a fps counter but who cares it's just a number most important is how
+it plays! 
+
+
+@{IMG "GUIDEDIR:files/d1.png"}
+@{IMG "GUIDEDIR:files/d2.png"}
+@{IMG "GUIDEDIR:files/d3.png"}
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+
+
+
+
+
+
+@node "AT97" "AmiTech97"
+@{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+
+@{IMG "GUIDEDIR:files/a97.png"}
+
+AmiTech 97 was a prominent, dedicated Amiga computer exposition 
+and computer party held in Stockholm, Sweden in April 1997. 
+Organized during a period of massive grassroots enthusiasm for 
+the Amiga platform, the event served as a major gathering hub 
+for the Scandinavian Amiga tech scene and the regional Demoscene.
+
+Major Amiga retailers and tech companies such as Micsam participated
+in the event to showcase software packages, hardware expansions, and
+protoypes to an enthusiastic user base
+
+The event hosted competitive "computer party" tournaments where 
+creators submitted demos.
+
+@{IMG "GUIDEDIR:files/amitech1.jpg"}
+1th place, 1997-04-26 Amitech by Tulou
+
+@{" Unpack " SYSTEM "c:execute demo"}
+
+Requires WHDL installed, only exits when demo done
+
+
+
+I was actually at AmiTech 97 with my company Micsam at that time,
+this is truly lost times. Background is Micsam data booth
+Company was registered Micsam, "data" was added in showcase materials
+
+@{IMG "GUIDEDIR:files/amitech97.png"}
+This is me, 29 years ago! screenshot from YouTube, want to see the
+video search for "AmiTech 97 ACG Amiga"
+
+
+I even met Petro Tyschtschenko and had a small chat, the Pontiac was
+at the entrance to AmiTech 97 and was "shown" to me by Riku Bergquist,
+can't remember if it was his car... think it was.
+
+@{IMG "GUIDEDIR:files/pontiac.jpeg"}
+
+
+@{FG shine}
+*** ***
+*********
+**** ****
+*******
+*****
+*
+@{FG text}
+
+
+@{JLEFT}
+@endnode 
+
+           
+
+
+
+
+
+@node "TFR" "Thanks for reading" 
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}
+  @{IMG "GUIDEDIR:files/me.jpg"}Me in another multiverse ;) ha ha ha
+@{JLEFT} 
+      
+      You can leave comments at my 32seonliner page at itch.io
+      
+      Thanks for reading, I'm not to do this in schedule and   
+      until next time USE YOUR AMIGAAAAAAaaaaaa....! /8080 
+@{JCENTER}@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *
+@endnode
+
+
+
+
+@node "NIT" "Known issues and tips"  
+
+  @{JCENTER}@{IMG "GUIDEDIR:files/32seonliner.png"}@{JLEFT}
+
+
+
+
+
+
+
+
+  32se onliner does not save anything 
+  To save/preserv this you find it in RAM:32se-main/
+  
+  If you get enviroment error during/after DL then run Prefs/Locale 
+  set and save 
+  
+  It's made for AmigaOS 32se, running on anything else you may find
+  buttons, links etc. not working as intended.
+  
+  
+  
+  
+  
+  
+@{IMG "GUIDEDIR:files/heart2.png"}@{JLEFT}@{fg shine} 
+               *        *     *     *  *       *     *     * 
+               *        *           *  *             *       
+                 * **  *      *  ***     ***          ** *   
+               *        *     *     *  *       *           * 
+               *        *           *  *       *     *     *
+                 ***  **      *     *    ** **       *     * 
+               *        *     *     *  *       *     *       
+               *              *     *  *             *       
+                ** ** *        * **     * * **         ** *  
+               *              *        *             *       
+                              *                      *       
+               *              *                      *       
+               *              *                      *
+                              *       
+                              *
+                              *         
+@{fg text}
+@endnode

@@ -1,0 +1,7 @@
+; 
+;   $VER: 32se demoscript 1.0 Copyright 2026 Sami Vehmaa
+;
+assign ttt: ""
+win ttt:files/3d/
+  
+  
