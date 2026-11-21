@@ -1,9 +1,0 @@
-; 
-;   $VER: 32se htmlscript 1.0 Copyright 2026 Sami Vehmaa
-;
-
-
-run >NIL: apps:internet/amelinium/amelinium https://8080.itch.io/32se-onliner
-
-  
-  
